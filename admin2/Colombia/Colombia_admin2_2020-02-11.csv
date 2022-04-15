@@ -1,0 +1,1123 @@
+id,date,admin0,admin1,admin2,cases
+COAMA91001,2020-02-11,Colombia,Amazonas,Leticia,0
+COAMA91263,2020-02-11,Colombia,Amazonas,El Encanto,0
+COAMA91405,2020-02-11,Colombia,Amazonas,La Chorrera,0
+COAMA91407,2020-02-11,Colombia,Amazonas,La Pedrera,0
+COAMA91430,2020-02-11,Colombia,Amazonas,La Victoria,0
+COAMA91460,2020-02-11,Colombia,Amazonas,Miriti - Parana,0
+COAMA91530,2020-02-11,Colombia,Amazonas,Puerto Alegria,0
+COAMA91536,2020-02-11,Colombia,Amazonas,Puerto Arica,0
+COAMA91540,2020-02-11,Colombia,Amazonas,Puerto Narino,0
+COAMA91669,2020-02-11,Colombia,Amazonas,Puerto Santander,0
+COAMA91798,2020-02-11,Colombia,Amazonas,Tarapaca,0
+COANT05001,2020-02-11,Colombia,Antioquia,Medellin,0
+COANT05002,2020-02-11,Colombia,Antioquia,Abejorral,0
+COANT05004,2020-02-11,Colombia,Antioquia,Abriaqui,0
+COANT05021,2020-02-11,Colombia,Antioquia,Alejandria,0
+COANT05030,2020-02-11,Colombia,Antioquia,Amaga,0
+COANT05031,2020-02-11,Colombia,Antioquia,Amalfi,0
+COANT05034,2020-02-11,Colombia,Antioquia,Andes,0
+COANT05036,2020-02-11,Colombia,Antioquia,Angelopolis,0
+COANT05038,2020-02-11,Colombia,Antioquia,Angostura,0
+COANT05040,2020-02-11,Colombia,Antioquia,Anori,0
+COANT05042,2020-02-11,Colombia,Antioquia,Santa Fe De Antioquia,0
+COANT05044,2020-02-11,Colombia,Antioquia,Anza,0
+COANT05045,2020-02-11,Colombia,Antioquia,Apartado,0
+COANT05051,2020-02-11,Colombia,Antioquia,Arboletes,0
+COANT05055,2020-02-11,Colombia,Antioquia,Argelia,0
+COANT05059,2020-02-11,Colombia,Antioquia,Armenia,0
+COANT05079,2020-02-11,Colombia,Antioquia,Barbosa,0
+COANT05086,2020-02-11,Colombia,Antioquia,Belmira,0
+COANT05088,2020-02-11,Colombia,Antioquia,Bello,0
+COANT05091,2020-02-11,Colombia,Antioquia,Betania,0
+COANT05093,2020-02-11,Colombia,Antioquia,Betulia,0
+COANT05101,2020-02-11,Colombia,Antioquia,Ciudad Bolivar,0
+COANT05107,2020-02-11,Colombia,Antioquia,Briceno,0
+COANT05113,2020-02-11,Colombia,Antioquia,Buritica,0
+COANT05120,2020-02-11,Colombia,Antioquia,Caceres,0
+COANT05125,2020-02-11,Colombia,Antioquia,Caicedo,0
+COANT05129,2020-02-11,Colombia,Antioquia,Caldas,0
+COANT05134,2020-02-11,Colombia,Antioquia,Campamento,0
+COANT05138,2020-02-11,Colombia,Antioquia,Canasgordas,0
+COANT05142,2020-02-11,Colombia,Antioquia,Caracoli,0
+COANT05145,2020-02-11,Colombia,Antioquia,Caramanta,0
+COANT05147,2020-02-11,Colombia,Antioquia,Carepa,0
+COANT05148,2020-02-11,Colombia,Antioquia,El Carmen De Viboral,0
+COANT05150,2020-02-11,Colombia,Antioquia,Carolina,0
+COANT05154,2020-02-11,Colombia,Antioquia,Caucasia,0
+COANT05172,2020-02-11,Colombia,Antioquia,Chigorodo,0
+COANT05190,2020-02-11,Colombia,Antioquia,Cisneros,0
+COANT05197,2020-02-11,Colombia,Antioquia,Cocorna,0
+COANT05206,2020-02-11,Colombia,Antioquia,Concepcion,0
+COANT05209,2020-02-11,Colombia,Antioquia,Concordia,0
+COANT05212,2020-02-11,Colombia,Antioquia,Copacabana,0
+COANT05234,2020-02-11,Colombia,Antioquia,Dabeiba,0
+COANT05237,2020-02-11,Colombia,Antioquia,Donmatias,0
+COANT05240,2020-02-11,Colombia,Antioquia,Ebejico,0
+COANT05250,2020-02-11,Colombia,Antioquia,El Bagre,0
+COANT05264,2020-02-11,Colombia,Antioquia,Entrerrios,0
+COANT05266,2020-02-11,Colombia,Antioquia,Envigado,0
+COANT05282,2020-02-11,Colombia,Antioquia,Fredonia,0
+COANT05284,2020-02-11,Colombia,Antioquia,Frontino,0
+COANT05306,2020-02-11,Colombia,Antioquia,Giraldo,0
+COANT05308,2020-02-11,Colombia,Antioquia,Girardota,0
+COANT05310,2020-02-11,Colombia,Antioquia,Gomez Plata,0
+COANT05313,2020-02-11,Colombia,Antioquia,Granada,0
+COANT05315,2020-02-11,Colombia,Antioquia,Guadalupe,0
+COANT05318,2020-02-11,Colombia,Antioquia,Guarne,0
+COANT05321,2020-02-11,Colombia,Antioquia,Guatape,0
+COANT05347,2020-02-11,Colombia,Antioquia,Heliconia,0
+COANT05353,2020-02-11,Colombia,Antioquia,Hispania,0
+COANT05360,2020-02-11,Colombia,Antioquia,Itagui,0
+COANT05361,2020-02-11,Colombia,Antioquia,Ituango,0
+COANT05364,2020-02-11,Colombia,Antioquia,Jardin,0
+COANT05368,2020-02-11,Colombia,Antioquia,Jerico,0
+COANT05376,2020-02-11,Colombia,Antioquia,La Ceja,0
+COANT05380,2020-02-11,Colombia,Antioquia,La Estrella,0
+COANT05390,2020-02-11,Colombia,Antioquia,La Pintada,0
+COANT05400,2020-02-11,Colombia,Antioquia,La Union,0
+COANT05411,2020-02-11,Colombia,Antioquia,Liborina,0
+COANT05425,2020-02-11,Colombia,Antioquia,Maceo,0
+COANT05440,2020-02-11,Colombia,Antioquia,Marinilla,0
+COANT05467,2020-02-11,Colombia,Antioquia,Montebello,0
+COANT05475,2020-02-11,Colombia,Antioquia,Murindo,0
+COANT05480,2020-02-11,Colombia,Antioquia,Mutata,0
+COANT05483,2020-02-11,Colombia,Antioquia,Narino,0
+COANT05490,2020-02-11,Colombia,Antioquia,Necocli,0
+COANT05495,2020-02-11,Colombia,Antioquia,Nechi,0
+COANT05501,2020-02-11,Colombia,Antioquia,Olaya,0
+COANT05541,2020-02-11,Colombia,Antioquia,Penol,0
+COANT05543,2020-02-11,Colombia,Antioquia,Peque,0
+COANT05576,2020-02-11,Colombia,Antioquia,Pueblorrico,0
+COANT05579,2020-02-11,Colombia,Antioquia,Puerto Berrio,0
+COANT05585,2020-02-11,Colombia,Antioquia,Puerto Nare,0
+COANT05591,2020-02-11,Colombia,Antioquia,Puerto Triunfo,0
+COANT05604,2020-02-11,Colombia,Antioquia,Remedios,0
+COANT05607,2020-02-11,Colombia,Antioquia,Retiro,0
+COANT05615,2020-02-11,Colombia,Antioquia,Rionegro,0
+COANT05628,2020-02-11,Colombia,Antioquia,Sabanalarga,0
+COANT05631,2020-02-11,Colombia,Antioquia,Sabaneta,0
+COANT05642,2020-02-11,Colombia,Antioquia,Salgar,0
+COANT05647,2020-02-11,Colombia,Antioquia,San Andres De Cuerquia,0
+COANT05649,2020-02-11,Colombia,Antioquia,San Carlos,0
+COANT05652,2020-02-11,Colombia,Antioquia,San Francisco,0
+COANT05656,2020-02-11,Colombia,Antioquia,San Jeronimo,0
+COANT05658,2020-02-11,Colombia,Antioquia,San Jose De La Montana,0
+COANT05659,2020-02-11,Colombia,Antioquia,San Juan De Uraba,0
+COANT05660,2020-02-11,Colombia,Antioquia,San Luis,0
+COANT05664,2020-02-11,Colombia,Antioquia,San Pedro De Los Milagros,0
+COANT05665,2020-02-11,Colombia,Antioquia,San Pedro De Uraba,0
+COANT05667,2020-02-11,Colombia,Antioquia,San Rafael,0
+COANT05670,2020-02-11,Colombia,Antioquia,San Roque,0
+COANT05674,2020-02-11,Colombia,Antioquia,San Vicente Ferrer,0
+COANT05679,2020-02-11,Colombia,Antioquia,Santa Barbara,0
+COANT05686,2020-02-11,Colombia,Antioquia,Santa Rosa De Osos,0
+COANT05690,2020-02-11,Colombia,Antioquia,Santo Domingo,0
+COANT05697,2020-02-11,Colombia,Antioquia,El Santuario,0
+COANT05736,2020-02-11,Colombia,Antioquia,Segovia,0
+COANT05756,2020-02-11,Colombia,Antioquia,Sonson,0
+COANT05761,2020-02-11,Colombia,Antioquia,Sopetran,0
+COANT05789,2020-02-11,Colombia,Antioquia,Tamesis,0
+COANT05790,2020-02-11,Colombia,Antioquia,Taraza,0
+COANT05792,2020-02-11,Colombia,Antioquia,Tarso,0
+COANT05809,2020-02-11,Colombia,Antioquia,Titiribi,0
+COANT05819,2020-02-11,Colombia,Antioquia,Toledo,0
+COANT05837,2020-02-11,Colombia,Antioquia,Turbo,0
+COANT05842,2020-02-11,Colombia,Antioquia,Uramita,0
+COANT05847,2020-02-11,Colombia,Antioquia,Urrao,0
+COANT05854,2020-02-11,Colombia,Antioquia,Valdivia,0
+COANT05856,2020-02-11,Colombia,Antioquia,Valparaiso,0
+COANT05858,2020-02-11,Colombia,Antioquia,Vegachi,0
+COANT05861,2020-02-11,Colombia,Antioquia,Venecia,0
+COANT05873,2020-02-11,Colombia,Antioquia,Vigia Del Fuerte,0
+COANT05885,2020-02-11,Colombia,Antioquia,Yali,0
+COANT05887,2020-02-11,Colombia,Antioquia,Yarumal,0
+COANT05890,2020-02-11,Colombia,Antioquia,Yolombo,0
+COANT05893,2020-02-11,Colombia,Antioquia,Yondo,0
+COANT05895,2020-02-11,Colombia,Antioquia,Zaragoza,0
+COARA81001,2020-02-11,Colombia,Arauca,Arauca,0
+COARA81065,2020-02-11,Colombia,Arauca,Arauquita,0
+COARA81220,2020-02-11,Colombia,Arauca,Cravo Norte,0
+COARA81300,2020-02-11,Colombia,Arauca,Fortul,0
+COARA81591,2020-02-11,Colombia,Arauca,Puerto Rondon,0
+COARA81736,2020-02-11,Colombia,Arauca,Saravena,0
+COARA81794,2020-02-11,Colombia,Arauca,Tame,0
+COATL08001,2020-02-11,Colombia,Atlantico,Barranquilla,0
+COATL08078,2020-02-11,Colombia,Atlantico,Baranoa,0
+COATL08137,2020-02-11,Colombia,Atlantico,Campo De La Cruz,0
+COATL08141,2020-02-11,Colombia,Atlantico,Candelaria,0
+COATL08296,2020-02-11,Colombia,Atlantico,Galapa,0
+COATL08372,2020-02-11,Colombia,Atlantico,Juan De Acosta,0
+COATL08421,2020-02-11,Colombia,Atlantico,Luruaco,0
+COATL08433,2020-02-11,Colombia,Atlantico,Malambo,0
+COATL08436,2020-02-11,Colombia,Atlantico,Manati,0
+COATL08520,2020-02-11,Colombia,Atlantico,Palmar De Varela,0
+COATL08549,2020-02-11,Colombia,Atlantico,Piojo,0
+COATL08558,2020-02-11,Colombia,Atlantico,Polonuevo,0
+COATL08560,2020-02-11,Colombia,Atlantico,Ponedera,0
+COATL08573,2020-02-11,Colombia,Atlantico,Puerto Colombia,0
+COATL08606,2020-02-11,Colombia,Atlantico,Repelon,0
+COATL08634,2020-02-11,Colombia,Atlantico,Sabanagrande,0
+COATL08638,2020-02-11,Colombia,Atlantico,Sabanalarga,0
+COATL08675,2020-02-11,Colombia,Atlantico,Santa Lucia,0
+COATL08685,2020-02-11,Colombia,Atlantico,Santo Tomas,0
+COATL08758,2020-02-11,Colombia,Atlantico,Soledad,0
+COATL08770,2020-02-11,Colombia,Atlantico,Suan,0
+COATL08832,2020-02-11,Colombia,Atlantico,Tubara,0
+COATL08849,2020-02-11,Colombia,Atlantico,Usiacuri,0
+COBOL13001,2020-02-11,Colombia,Bolivar,Cartagena De Indias,0
+COBOL13006,2020-02-11,Colombia,Bolivar,Achi,0
+COBOL13030,2020-02-11,Colombia,Bolivar,Altos Del Rosario,0
+COBOL13042,2020-02-11,Colombia,Bolivar,Arenal,0
+COBOL13052,2020-02-11,Colombia,Bolivar,Arjona,0
+COBOL13062,2020-02-11,Colombia,Bolivar,Arroyohondo,0
+COBOL13074,2020-02-11,Colombia,Bolivar,Barranco De Loba,0
+COBOL13140,2020-02-11,Colombia,Bolivar,Calamar,0
+COBOL13160,2020-02-11,Colombia,Bolivar,Cantagallo,0
+COBOL13188,2020-02-11,Colombia,Bolivar,Cicuco,0
+COBOL13212,2020-02-11,Colombia,Bolivar,Cordoba,0
+COBOL13222,2020-02-11,Colombia,Bolivar,Clemencia,0
+COBOL13244,2020-02-11,Colombia,Bolivar,El Carmen De Bolivar,0
+COBOL13248,2020-02-11,Colombia,Bolivar,El Guamo,0
+COBOL13268,2020-02-11,Colombia,Bolivar,El Penon,0
+COBOL13300,2020-02-11,Colombia,Bolivar,Hatillo De Loba,0
+COBOL13430,2020-02-11,Colombia,Bolivar,Magangue,0
+COBOL13433,2020-02-11,Colombia,Bolivar,Mahates,0
+COBOL13440,2020-02-11,Colombia,Bolivar,Margarita,0
+COBOL13442,2020-02-11,Colombia,Bolivar,Maria La Baja,0
+COBOL13458,2020-02-11,Colombia,Bolivar,Montecristo,0
+COBOL13468,2020-02-11,Colombia,Bolivar,Mompos,0
+COBOL13473,2020-02-11,Colombia,Bolivar,Morales,0
+COBOL13490,2020-02-11,Colombia,Bolivar,Norosi,0
+COBOL13549,2020-02-11,Colombia,Bolivar,Pinillos,0
+COBOL13580,2020-02-11,Colombia,Bolivar,Regidor,0
+COBOL13600,2020-02-11,Colombia,Bolivar,Rio Viejo,0
+COBOL13620,2020-02-11,Colombia,Bolivar,San Cristobal,0
+COBOL13647,2020-02-11,Colombia,Bolivar,San Estanislao,0
+COBOL13650,2020-02-11,Colombia,Bolivar,San Fernando,0
+COBOL13654,2020-02-11,Colombia,Bolivar,San Jacinto,0
+COBOL13655,2020-02-11,Colombia,Bolivar,San Jacinto Del Cauca,0
+COBOL13657,2020-02-11,Colombia,Bolivar,San Juan Nepomuceno,0
+COBOL13667,2020-02-11,Colombia,Bolivar,San Martin De Loba,0
+COBOL13670,2020-02-11,Colombia,Bolivar,San Pablo,0
+COBOL13673,2020-02-11,Colombia,Bolivar,Santa Catalina,0
+COBOL13683,2020-02-11,Colombia,Bolivar,Santa Rosa,0
+COBOL13688,2020-02-11,Colombia,Bolivar,Santa Rosa Del Sur,0
+COBOL13744,2020-02-11,Colombia,Bolivar,Simiti,0
+COBOL13760,2020-02-11,Colombia,Bolivar,Soplaviento,0
+COBOL13780,2020-02-11,Colombia,Bolivar,Talaigua Nuevo,0
+COBOL13810,2020-02-11,Colombia,Bolivar,Tiquisio,0
+COBOL13836,2020-02-11,Colombia,Bolivar,Turbaco,0
+COBOL13838,2020-02-11,Colombia,Bolivar,Turbana,0
+COBOL13873,2020-02-11,Colombia,Bolivar,Villanueva,0
+COBOL13894,2020-02-11,Colombia,Bolivar,Zambrano,0
+COBOY15001,2020-02-11,Colombia,Boyaca,Tunja,0
+COBOY15022,2020-02-11,Colombia,Boyaca,Almeida,0
+COBOY15047,2020-02-11,Colombia,Boyaca,Aquitania,0
+COBOY15051,2020-02-11,Colombia,Boyaca,Arcabuco,0
+COBOY15087,2020-02-11,Colombia,Boyaca,Belen,0
+COBOY15090,2020-02-11,Colombia,Boyaca,Berbeo,0
+COBOY15092,2020-02-11,Colombia,Boyaca,Beteitiva,0
+COBOY15097,2020-02-11,Colombia,Boyaca,Boavita,0
+COBOY15104,2020-02-11,Colombia,Boyaca,Boyaca,0
+COBOY15106,2020-02-11,Colombia,Boyaca,Briceno,0
+COBOY15109,2020-02-11,Colombia,Boyaca,Buenavista,0
+COBOY15114,2020-02-11,Colombia,Boyaca,Busbanza,0
+COBOY15131,2020-02-11,Colombia,Boyaca,Caldas,0
+COBOY15135,2020-02-11,Colombia,Boyaca,Campohermoso,0
+COBOY15162,2020-02-11,Colombia,Boyaca,Cerinza,0
+COBOY15172,2020-02-11,Colombia,Boyaca,Chinavita,0
+COBOY15176,2020-02-11,Colombia,Boyaca,Chiquinquira,0
+COBOY15180,2020-02-11,Colombia,Boyaca,Chiscas,0
+COBOY15183,2020-02-11,Colombia,Boyaca,Chita,0
+COBOY15185,2020-02-11,Colombia,Boyaca,Chitaraque,0
+COBOY15187,2020-02-11,Colombia,Boyaca,Chivata,0
+COBOY15189,2020-02-11,Colombia,Boyaca,Cienega,0
+COBOY15204,2020-02-11,Colombia,Boyaca,Combita,0
+COBOY15212,2020-02-11,Colombia,Boyaca,Coper,0
+COBOY15215,2020-02-11,Colombia,Boyaca,Corrales,0
+COBOY15218,2020-02-11,Colombia,Boyaca,Covarachia,0
+COBOY15223,2020-02-11,Colombia,Boyaca,Cubara,0
+COBOY15224,2020-02-11,Colombia,Boyaca,Cucaita,0
+COBOY15226,2020-02-11,Colombia,Boyaca,Cuitiva,0
+COBOY15232,2020-02-11,Colombia,Boyaca,Chiquiza,0
+COBOY15236,2020-02-11,Colombia,Boyaca,Chivor,0
+COBOY15238,2020-02-11,Colombia,Boyaca,Duitama,0
+COBOY15244,2020-02-11,Colombia,Boyaca,El Cocuy,0
+COBOY15248,2020-02-11,Colombia,Boyaca,El Espino,0
+COBOY15272,2020-02-11,Colombia,Boyaca,Firavitoba,0
+COBOY15276,2020-02-11,Colombia,Boyaca,Floresta,0
+COBOY15293,2020-02-11,Colombia,Boyaca,Gachantiva,0
+COBOY15296,2020-02-11,Colombia,Boyaca,Gameza,0
+COBOY15299,2020-02-11,Colombia,Boyaca,Garagoa,0
+COBOY15317,2020-02-11,Colombia,Boyaca,Guacamayas,0
+COBOY15322,2020-02-11,Colombia,Boyaca,Guateque,0
+COBOY15325,2020-02-11,Colombia,Boyaca,Guayata,0
+COBOY15332,2020-02-11,Colombia,Boyaca,Guican De La Sierra,0
+COBOY15362,2020-02-11,Colombia,Boyaca,Iza,0
+COBOY15367,2020-02-11,Colombia,Boyaca,Jenesano,0
+COBOY15368,2020-02-11,Colombia,Boyaca,Jerico,0
+COBOY15377,2020-02-11,Colombia,Boyaca,Labranzagrande,0
+COBOY15380,2020-02-11,Colombia,Boyaca,La Capilla,0
+COBOY15401,2020-02-11,Colombia,Boyaca,La Victoria,0
+COBOY15403,2020-02-11,Colombia,Boyaca,La Uvita,0
+COBOY15407,2020-02-11,Colombia,Boyaca,Villa De Leyva,0
+COBOY15425,2020-02-11,Colombia,Boyaca,Macanal,0
+COBOY15442,2020-02-11,Colombia,Boyaca,Maripi,0
+COBOY15455,2020-02-11,Colombia,Boyaca,Miraflores,0
+COBOY15464,2020-02-11,Colombia,Boyaca,Mongua,0
+COBOY15466,2020-02-11,Colombia,Boyaca,Mongui,0
+COBOY15469,2020-02-11,Colombia,Boyaca,Moniquira,0
+COBOY15476,2020-02-11,Colombia,Boyaca,Motavita,0
+COBOY15480,2020-02-11,Colombia,Boyaca,Muzo,0
+COBOY15491,2020-02-11,Colombia,Boyaca,Nobsa,0
+COBOY15494,2020-02-11,Colombia,Boyaca,Nuevo Colon,0
+COBOY15500,2020-02-11,Colombia,Boyaca,Oicata,0
+COBOY15507,2020-02-11,Colombia,Boyaca,Otanche,0
+COBOY15511,2020-02-11,Colombia,Boyaca,Pachavita,0
+COBOY15514,2020-02-11,Colombia,Boyaca,Paez,0
+COBOY15516,2020-02-11,Colombia,Boyaca,Paipa,0
+COBOY15518,2020-02-11,Colombia,Boyaca,Pajarito,0
+COBOY15522,2020-02-11,Colombia,Boyaca,Panqueba,0
+COBOY15531,2020-02-11,Colombia,Boyaca,Pauna,0
+COBOY15533,2020-02-11,Colombia,Boyaca,Paya,0
+COBOY15537,2020-02-11,Colombia,Boyaca,Paz De Rio,0
+COBOY15542,2020-02-11,Colombia,Boyaca,Pesca,0
+COBOY15550,2020-02-11,Colombia,Boyaca,Pisba,0
+COBOY15572,2020-02-11,Colombia,Boyaca,Puerto Boyaca,0
+COBOY15580,2020-02-11,Colombia,Boyaca,Quipama,0
+COBOY15599,2020-02-11,Colombia,Boyaca,Ramiriqui,0
+COBOY15600,2020-02-11,Colombia,Boyaca,Raquira,0
+COBOY15621,2020-02-11,Colombia,Boyaca,Rondon,0
+COBOY15632,2020-02-11,Colombia,Boyaca,Saboya,0
+COBOY15638,2020-02-11,Colombia,Boyaca,Sachica,0
+COBOY15646,2020-02-11,Colombia,Boyaca,Samaca,0
+COBOY15660,2020-02-11,Colombia,Boyaca,San Eduardo,0
+COBOY15664,2020-02-11,Colombia,Boyaca,San Jose De Pare,0
+COBOY15667,2020-02-11,Colombia,Boyaca,San Luis De Gaceno,0
+COBOY15673,2020-02-11,Colombia,Boyaca,San Mateo,0
+COBOY15676,2020-02-11,Colombia,Boyaca,San Miguel De Sema,0
+COBOY15681,2020-02-11,Colombia,Boyaca,San Pablo De Borbur,0
+COBOY15686,2020-02-11,Colombia,Boyaca,Santana,0
+COBOY15690,2020-02-11,Colombia,Boyaca,Santa Maria,0
+COBOY15693,2020-02-11,Colombia,Boyaca,Santa Rosa De Viterbo,0
+COBOY15696,2020-02-11,Colombia,Boyaca,Santa Sofia,0
+COBOY15720,2020-02-11,Colombia,Boyaca,Sativanorte,0
+COBOY15723,2020-02-11,Colombia,Boyaca,Sativasur,0
+COBOY15740,2020-02-11,Colombia,Boyaca,Siachoque,0
+COBOY15753,2020-02-11,Colombia,Boyaca,Soata,0
+COBOY15755,2020-02-11,Colombia,Boyaca,Socota,0
+COBOY15757,2020-02-11,Colombia,Boyaca,Socha,0
+COBOY15759,2020-02-11,Colombia,Boyaca,Sogamoso,0
+COBOY15761,2020-02-11,Colombia,Boyaca,Somondoco,0
+COBOY15762,2020-02-11,Colombia,Boyaca,Sora,0
+COBOY15763,2020-02-11,Colombia,Boyaca,Sotaquira,0
+COBOY15764,2020-02-11,Colombia,Boyaca,Soraca,0
+COBOY15774,2020-02-11,Colombia,Boyaca,Susacon,0
+COBOY15776,2020-02-11,Colombia,Boyaca,Sutamarchan,0
+COBOY15778,2020-02-11,Colombia,Boyaca,Sutatenza,0
+COBOY15790,2020-02-11,Colombia,Boyaca,Tasco,0
+COBOY15798,2020-02-11,Colombia,Boyaca,Tenza,0
+COBOY15804,2020-02-11,Colombia,Boyaca,Tibana,0
+COBOY15806,2020-02-11,Colombia,Boyaca,Tibasosa,0
+COBOY15808,2020-02-11,Colombia,Boyaca,Tinjaca,0
+COBOY15810,2020-02-11,Colombia,Boyaca,Tipacoque,0
+COBOY15814,2020-02-11,Colombia,Boyaca,Toca,0
+COBOY15816,2020-02-11,Colombia,Boyaca,Togui,0
+COBOY15820,2020-02-11,Colombia,Boyaca,Topaga,0
+COBOY15822,2020-02-11,Colombia,Boyaca,Tota,0
+COBOY15832,2020-02-11,Colombia,Boyaca,Tunungua,0
+COBOY15835,2020-02-11,Colombia,Boyaca,Turmeque,0
+COBOY15837,2020-02-11,Colombia,Boyaca,Tuta,0
+COBOY15839,2020-02-11,Colombia,Boyaca,Tutaza,0
+COBOY15842,2020-02-11,Colombia,Boyaca,Umbita,0
+COBOY15861,2020-02-11,Colombia,Boyaca,Ventaquemada,0
+COBOY15879,2020-02-11,Colombia,Boyaca,Viracacha,0
+COBOY15897,2020-02-11,Colombia,Boyaca,Zetaquira,0
+COCAL17001,2020-02-11,Colombia,Caldas,Manizales,0
+COCAL17013,2020-02-11,Colombia,Caldas,Aguadas,0
+COCAL17042,2020-02-11,Colombia,Caldas,Anserma,0
+COCAL17050,2020-02-11,Colombia,Caldas,Aranzazu,0
+COCAL17088,2020-02-11,Colombia,Caldas,Belalcazar,0
+COCAL17174,2020-02-11,Colombia,Caldas,Chinchina,0
+COCAL17272,2020-02-11,Colombia,Caldas,Filadelfia,0
+COCAL17380,2020-02-11,Colombia,Caldas,La Dorada,0
+COCAL17388,2020-02-11,Colombia,Caldas,La Merced,0
+COCAL17433,2020-02-11,Colombia,Caldas,Manzanares,0
+COCAL17442,2020-02-11,Colombia,Caldas,Marmato,0
+COCAL17444,2020-02-11,Colombia,Caldas,Marquetalia,0
+COCAL17446,2020-02-11,Colombia,Caldas,Marulanda,0
+COCAL17486,2020-02-11,Colombia,Caldas,Neira,0
+COCAL17495,2020-02-11,Colombia,Caldas,Norcasia,0
+COCAL17513,2020-02-11,Colombia,Caldas,Pacora,0
+COCAL17524,2020-02-11,Colombia,Caldas,Palestina,0
+COCAL17541,2020-02-11,Colombia,Caldas,Pensilvania,0
+COCAL17614,2020-02-11,Colombia,Caldas,Riosucio,0
+COCAL17616,2020-02-11,Colombia,Caldas,Risaralda,0
+COCAL17653,2020-02-11,Colombia,Caldas,Salamina,0
+COCAL17662,2020-02-11,Colombia,Caldas,Samana,0
+COCAL17665,2020-02-11,Colombia,Caldas,San Jose,0
+COCAL17777,2020-02-11,Colombia,Caldas,Supia,0
+COCAL17867,2020-02-11,Colombia,Caldas,Victoria,0
+COCAL17873,2020-02-11,Colombia,Caldas,Villamaria,0
+COCAL17877,2020-02-11,Colombia,Caldas,Viterbo,0
+COCAQ18001,2020-02-11,Colombia,Caqueta,Florencia,0
+COCAQ18029,2020-02-11,Colombia,Caqueta,Albania,0
+COCAQ18094,2020-02-11,Colombia,Caqueta,Belen De Los Andaquies,0
+COCAQ18150,2020-02-11,Colombia,Caqueta,Cartagena Del Chaira,0
+COCAQ18205,2020-02-11,Colombia,Caqueta,Curillo,0
+COCAQ18247,2020-02-11,Colombia,Caqueta,El Doncello,0
+COCAQ18256,2020-02-11,Colombia,Caqueta,El Paujil,0
+COCAQ18410,2020-02-11,Colombia,Caqueta,La Montanita,0
+COCAQ18460,2020-02-11,Colombia,Caqueta,Milan,0
+COCAQ18479,2020-02-11,Colombia,Caqueta,Morelia,0
+COCAQ18592,2020-02-11,Colombia,Caqueta,Puerto Rico,0
+COCAQ18610,2020-02-11,Colombia,Caqueta,San Jose Del Fragua,0
+COCAQ18753,2020-02-11,Colombia,Caqueta,San Vicente Del Caguan,0
+COCAQ18756,2020-02-11,Colombia,Caqueta,Solano,0
+COCAQ18785,2020-02-11,Colombia,Caqueta,Solita,0
+COCAQ18860,2020-02-11,Colombia,Caqueta,Valparaiso,0
+COCAS85001,2020-02-11,Colombia,Casanare,Yopal,0
+COCAS85010,2020-02-11,Colombia,Casanare,Aguazul,0
+COCAS85015,2020-02-11,Colombia,Casanare,Chameza,0
+COCAS85125,2020-02-11,Colombia,Casanare,Hato Corozal,0
+COCAS85136,2020-02-11,Colombia,Casanare,La Salina,0
+COCAS85139,2020-02-11,Colombia,Casanare,Mani,0
+COCAS85162,2020-02-11,Colombia,Casanare,Monterrey,0
+COCAS85225,2020-02-11,Colombia,Casanare,Nunchia,0
+COCAS85230,2020-02-11,Colombia,Casanare,Orocue,0
+COCAS85250,2020-02-11,Colombia,Casanare,Paz De Ariporo,0
+COCAS85263,2020-02-11,Colombia,Casanare,Pore,0
+COCAS85279,2020-02-11,Colombia,Casanare,Recetor,0
+COCAS85300,2020-02-11,Colombia,Casanare,Sabanalarga,0
+COCAS85315,2020-02-11,Colombia,Casanare,Sacama,0
+COCAS85325,2020-02-11,Colombia,Casanare,San Luis De Palenque,0
+COCAS85400,2020-02-11,Colombia,Casanare,Tamara,0
+COCAS85410,2020-02-11,Colombia,Casanare,Tauramena,0
+COCAS85430,2020-02-11,Colombia,Casanare,Trinidad,0
+COCAS85440,2020-02-11,Colombia,Casanare,Villanueva,0
+COCAU19001,2020-02-11,Colombia,Cauca,Popayan,0
+COCAU19022,2020-02-11,Colombia,Cauca,Almaguer,0
+COCAU19050,2020-02-11,Colombia,Cauca,Argelia,0
+COCAU19075,2020-02-11,Colombia,Cauca,Balboa,0
+COCAU19100,2020-02-11,Colombia,Cauca,Bolivar,0
+COCAU19110,2020-02-11,Colombia,Cauca,Buenos Aires,0
+COCAU19130,2020-02-11,Colombia,Cauca,Cajibio,0
+COCAU19137,2020-02-11,Colombia,Cauca,Caldono,0
+COCAU19142,2020-02-11,Colombia,Cauca,Caloto,0
+COCAU19212,2020-02-11,Colombia,Cauca,Corinto,0
+COCAU19256,2020-02-11,Colombia,Cauca,El Tambo,0
+COCAU19290,2020-02-11,Colombia,Cauca,Florencia,0
+COCAU19300,2020-02-11,Colombia,Cauca,Guachene,0
+COCAU19318,2020-02-11,Colombia,Cauca,Guapi,0
+COCAU19355,2020-02-11,Colombia,Cauca,Inza,0
+COCAU19364,2020-02-11,Colombia,Cauca,Jambalo,0
+COCAU19392,2020-02-11,Colombia,Cauca,La Sierra,0
+COCAU19397,2020-02-11,Colombia,Cauca,La Vega,0
+COCAU19418,2020-02-11,Colombia,Cauca,Lopez De Micay,0
+COCAU19450,2020-02-11,Colombia,Cauca,Mercaderes,0
+COCAU19455,2020-02-11,Colombia,Cauca,Miranda,0
+COCAU19473,2020-02-11,Colombia,Cauca,Morales,0
+COCAU19513,2020-02-11,Colombia,Cauca,Padilla,0
+COCAU19517,2020-02-11,Colombia,Cauca,Paez,0
+COCAU19532,2020-02-11,Colombia,Cauca,Patia,0
+COCAU19533,2020-02-11,Colombia,Cauca,Piamonte,0
+COCAU19548,2020-02-11,Colombia,Cauca,Piendamo - Tunia,0
+COCAU19573,2020-02-11,Colombia,Cauca,Puerto Tejada,0
+COCAU19585,2020-02-11,Colombia,Cauca,Purace,0
+COCAU19622,2020-02-11,Colombia,Cauca,Rosas,0
+COCAU19693,2020-02-11,Colombia,Cauca,San Sebastian,0
+COCAU19698,2020-02-11,Colombia,Cauca,Santander De Quilichao,0
+COCAU19701,2020-02-11,Colombia,Cauca,Santa Rosa,0
+COCAU19743,2020-02-11,Colombia,Cauca,Silvia,0
+COCAU19760,2020-02-11,Colombia,Cauca,Sotara - Paispamba,0
+COCAU19780,2020-02-11,Colombia,Cauca,Suarez,0
+COCAU19785,2020-02-11,Colombia,Cauca,Sucre,0
+COCAU19807,2020-02-11,Colombia,Cauca,Timbio,0
+COCAU19809,2020-02-11,Colombia,Cauca,Timbiqui,0
+COCAU19821,2020-02-11,Colombia,Cauca,Toribio,0
+COCAU19824,2020-02-11,Colombia,Cauca,Totoro,0
+COCAU19845,2020-02-11,Colombia,Cauca,Villa Rica,0
+COCES20001,2020-02-11,Colombia,Cesar,Valledupar,0
+COCES20011,2020-02-11,Colombia,Cesar,Aguachica,0
+COCES20013,2020-02-11,Colombia,Cesar,Agustin Codazzi,0
+COCES20032,2020-02-11,Colombia,Cesar,Astrea,0
+COCES20045,2020-02-11,Colombia,Cesar,Becerril,0
+COCES20060,2020-02-11,Colombia,Cesar,Bosconia,0
+COCES20175,2020-02-11,Colombia,Cesar,Chimichagua,0
+COCES20178,2020-02-11,Colombia,Cesar,Chiriguana,0
+COCES20228,2020-02-11,Colombia,Cesar,Curumani,0
+COCES20238,2020-02-11,Colombia,Cesar,El Copey,0
+COCES20250,2020-02-11,Colombia,Cesar,El Paso,0
+COCES20295,2020-02-11,Colombia,Cesar,Gamarra,0
+COCES20310,2020-02-11,Colombia,Cesar,Gonzalez,0
+COCES20383,2020-02-11,Colombia,Cesar,La Gloria,0
+COCES20400,2020-02-11,Colombia,Cesar,La Jagua De Ibirico,0
+COCES20443,2020-02-11,Colombia,Cesar,Manaure Balcon Del Cesar,0
+COCES20517,2020-02-11,Colombia,Cesar,Pailitas,0
+COCES20550,2020-02-11,Colombia,Cesar,Pelaya,0
+COCES20570,2020-02-11,Colombia,Cesar,Pueblo Bello,0
+COCES20614,2020-02-11,Colombia,Cesar,Rio De Oro,0
+COCES20621,2020-02-11,Colombia,Cesar,La Paz,0
+COCES20710,2020-02-11,Colombia,Cesar,San Alberto,0
+COCES20750,2020-02-11,Colombia,Cesar,San Diego,0
+COCES20770,2020-02-11,Colombia,Cesar,San Martin,0
+COCES20787,2020-02-11,Colombia,Cesar,Tamalameque,0
+COCHO27001,2020-02-11,Colombia,Choco,Quibdo,0
+COCHO27006,2020-02-11,Colombia,Choco,Acandi,0
+COCHO27025,2020-02-11,Colombia,Choco,Alto Baudo,0
+COCHO27050,2020-02-11,Colombia,Choco,Atrato,0
+COCHO27073,2020-02-11,Colombia,Choco,Bagado,0
+COCHO27075,2020-02-11,Colombia,Choco,Bahia Solano,0
+COCHO27077,2020-02-11,Colombia,Choco,Bajo Baudo,0
+COCHO27099,2020-02-11,Colombia,Choco,Bojaya,0
+COCHO27135,2020-02-11,Colombia,Choco,El Canton Del San Pablo,0
+COCHO27150,2020-02-11,Colombia,Choco,Carmen Del Darien,0
+COCHO27160,2020-02-11,Colombia,Choco,Certegui,0
+COCHO27205,2020-02-11,Colombia,Choco,Condoto,0
+COCHO27245,2020-02-11,Colombia,Choco,El Carmen De Atrato,0
+COCHO27250,2020-02-11,Colombia,Choco,El Litoral Del San Juan,0
+COCHO27361,2020-02-11,Colombia,Choco,Istmina,0
+COCHO27372,2020-02-11,Colombia,Choco,Jurado,0
+COCHO27413,2020-02-11,Colombia,Choco,Lloro,0
+COCHO27425,2020-02-11,Colombia,Choco,Medio Atrato,0
+COCHO27430,2020-02-11,Colombia,Choco,Medio Baudo,0
+COCHO27450,2020-02-11,Colombia,Choco,Medio San Juan,0
+COCHO27491,2020-02-11,Colombia,Choco,Novita,0
+COCHO27495,2020-02-11,Colombia,Choco,Nuqui,0
+COCHO27580,2020-02-11,Colombia,Choco,Rio Iro,0
+COCHO27600,2020-02-11,Colombia,Choco,Rio Quito,0
+COCHO27615,2020-02-11,Colombia,Choco,Riosucio,0
+COCHO27660,2020-02-11,Colombia,Choco,San Jose Del Palmar,0
+COCHO27745,2020-02-11,Colombia,Choco,Sipi,0
+COCHO27787,2020-02-11,Colombia,Choco,Tado,0
+COCHO27800,2020-02-11,Colombia,Choco,Unguia,0
+COCHO27810,2020-02-11,Colombia,Choco,Union Panamericana,0
+COCOR23001,2020-02-11,Colombia,Cordoba,Monteria,0
+COCOR23068,2020-02-11,Colombia,Cordoba,Ayapel,0
+COCOR23079,2020-02-11,Colombia,Cordoba,Buenavista,0
+COCOR23090,2020-02-11,Colombia,Cordoba,Canalete,0
+COCOR23162,2020-02-11,Colombia,Cordoba,Cerete,0
+COCOR23168,2020-02-11,Colombia,Cordoba,Chima,0
+COCOR23182,2020-02-11,Colombia,Cordoba,Chinu,0
+COCOR23189,2020-02-11,Colombia,Cordoba,Cienaga De Oro,0
+COCOR23300,2020-02-11,Colombia,Cordoba,Cotorra,0
+COCOR23350,2020-02-11,Colombia,Cordoba,La Apartada,0
+COCOR23417,2020-02-11,Colombia,Cordoba,Lorica,0
+COCOR23419,2020-02-11,Colombia,Cordoba,Los Cordobas,0
+COCOR23464,2020-02-11,Colombia,Cordoba,Momil,0
+COCOR23466,2020-02-11,Colombia,Cordoba,Montelibano,0
+COCOR23500,2020-02-11,Colombia,Cordoba,Monitos,0
+COCOR23555,2020-02-11,Colombia,Cordoba,Planeta Rica,0
+COCOR23570,2020-02-11,Colombia,Cordoba,Pueblo Nuevo,0
+COCOR23574,2020-02-11,Colombia,Cordoba,Puerto Escondido,0
+COCOR23580,2020-02-11,Colombia,Cordoba,Puerto Libertador,0
+COCOR23586,2020-02-11,Colombia,Cordoba,Purisima De La Concepcion,0
+COCOR23660,2020-02-11,Colombia,Cordoba,Sahagun,0
+COCOR23670,2020-02-11,Colombia,Cordoba,San Andres De Sotavento,0
+COCOR23672,2020-02-11,Colombia,Cordoba,San Antero,0
+COCOR23675,2020-02-11,Colombia,Cordoba,San Bernardo Del Viento,0
+COCOR23678,2020-02-11,Colombia,Cordoba,San Carlos,0
+COCOR23682,2020-02-11,Colombia,Cordoba,San Jose De Ure,0
+COCOR23686,2020-02-11,Colombia,Cordoba,San Pelayo,0
+COCOR23807,2020-02-11,Colombia,Cordoba,Tierralta,0
+COCOR23815,2020-02-11,Colombia,Cordoba,Tuchin,0
+COCOR23855,2020-02-11,Colombia,Cordoba,Valencia,0
+COCUN25001,2020-02-11,Colombia,Cundinamarca,Agua De Dios,0
+COCUN25019,2020-02-11,Colombia,Cundinamarca,Alban,0
+COCUN25035,2020-02-11,Colombia,Cundinamarca,Anapoima,0
+COCUN25040,2020-02-11,Colombia,Cundinamarca,Anolaima,0
+COCUN25053,2020-02-11,Colombia,Cundinamarca,Arbelaez,0
+COCUN25086,2020-02-11,Colombia,Cundinamarca,Beltran,0
+COCUN25095,2020-02-11,Colombia,Cundinamarca,Bituima,0
+COCUN25099,2020-02-11,Colombia,Cundinamarca,Bojaca,0
+COCUN25120,2020-02-11,Colombia,Cundinamarca,Cabrera,0
+COCUN25123,2020-02-11,Colombia,Cundinamarca,Cachipay,0
+COCUN25126,2020-02-11,Colombia,Cundinamarca,Cajica,0
+COCUN25148,2020-02-11,Colombia,Cundinamarca,Caparrapi,0
+COCUN25151,2020-02-11,Colombia,Cundinamarca,Caqueza,0
+COCUN25154,2020-02-11,Colombia,Cundinamarca,Carmen De Carupa,0
+COCUN25168,2020-02-11,Colombia,Cundinamarca,Chaguani,0
+COCUN25175,2020-02-11,Colombia,Cundinamarca,Chia,0
+COCUN25178,2020-02-11,Colombia,Cundinamarca,Chipaque,0
+COCUN25181,2020-02-11,Colombia,Cundinamarca,Choachi,0
+COCUN25183,2020-02-11,Colombia,Cundinamarca,Choconta,0
+COCUN25200,2020-02-11,Colombia,Cundinamarca,Cogua,0
+COCUN25214,2020-02-11,Colombia,Cundinamarca,Cota,0
+COCUN25224,2020-02-11,Colombia,Cundinamarca,Cucunuba,0
+COCUN25245,2020-02-11,Colombia,Cundinamarca,El Colegio,0
+COCUN25258,2020-02-11,Colombia,Cundinamarca,El Penon,0
+COCUN25260,2020-02-11,Colombia,Cundinamarca,El Rosal,0
+COCUN25269,2020-02-11,Colombia,Cundinamarca,Facatativa,0
+COCUN25279,2020-02-11,Colombia,Cundinamarca,Fomeque,0
+COCUN25281,2020-02-11,Colombia,Cundinamarca,Fosca,0
+COCUN25286,2020-02-11,Colombia,Cundinamarca,Funza,0
+COCUN25288,2020-02-11,Colombia,Cundinamarca,Fuquene,0
+COCUN25290,2020-02-11,Colombia,Cundinamarca,Fusagasuga,0
+COCUN25293,2020-02-11,Colombia,Cundinamarca,Gachala,0
+COCUN25295,2020-02-11,Colombia,Cundinamarca,Gachancipa,0
+COCUN25297,2020-02-11,Colombia,Cundinamarca,Gacheta,0
+COCUN25299,2020-02-11,Colombia,Cundinamarca,Gama,0
+COCUN25307,2020-02-11,Colombia,Cundinamarca,Girardot,0
+COCUN25312,2020-02-11,Colombia,Cundinamarca,Granada,0
+COCUN25317,2020-02-11,Colombia,Cundinamarca,Guacheta,0
+COCUN25320,2020-02-11,Colombia,Cundinamarca,Guaduas,0
+COCUN25322,2020-02-11,Colombia,Cundinamarca,Guasca,0
+COCUN25324,2020-02-11,Colombia,Cundinamarca,Guataqui,0
+COCUN25326,2020-02-11,Colombia,Cundinamarca,Guatavita,0
+COCUN25328,2020-02-11,Colombia,Cundinamarca,Guayabal De Siquima,0
+COCUN25335,2020-02-11,Colombia,Cundinamarca,Guayabetal,0
+COCUN25339,2020-02-11,Colombia,Cundinamarca,Gutierrez,0
+COCUN25368,2020-02-11,Colombia,Cundinamarca,Jerusalen,0
+COCUN25372,2020-02-11,Colombia,Cundinamarca,Junin,0
+COCUN25377,2020-02-11,Colombia,Cundinamarca,La Calera,0
+COCUN25386,2020-02-11,Colombia,Cundinamarca,La Mesa,0
+COCUN25394,2020-02-11,Colombia,Cundinamarca,La Palma,0
+COCUN25398,2020-02-11,Colombia,Cundinamarca,La Pena,0
+COCUN25402,2020-02-11,Colombia,Cundinamarca,La Vega,0
+COCUN25407,2020-02-11,Colombia,Cundinamarca,Lenguazaque,0
+COCUN25426,2020-02-11,Colombia,Cundinamarca,Macheta,0
+COCUN25430,2020-02-11,Colombia,Cundinamarca,Madrid,0
+COCUN25436,2020-02-11,Colombia,Cundinamarca,Manta,0
+COCUN25438,2020-02-11,Colombia,Cundinamarca,Medina,0
+COCUN25473,2020-02-11,Colombia,Cundinamarca,Mosquera,0
+COCUN25483,2020-02-11,Colombia,Cundinamarca,Narino,0
+COCUN25486,2020-02-11,Colombia,Cundinamarca,Nemocon,0
+COCUN25488,2020-02-11,Colombia,Cundinamarca,Nilo,0
+COCUN25489,2020-02-11,Colombia,Cundinamarca,Nimaima,0
+COCUN25491,2020-02-11,Colombia,Cundinamarca,Nocaima,0
+COCUN25506,2020-02-11,Colombia,Cundinamarca,Venecia,0
+COCUN25513,2020-02-11,Colombia,Cundinamarca,Pacho,0
+COCUN25518,2020-02-11,Colombia,Cundinamarca,Paime,0
+COCUN25524,2020-02-11,Colombia,Cundinamarca,Pandi,0
+COCUN25530,2020-02-11,Colombia,Cundinamarca,Paratebueno,0
+COCUN25535,2020-02-11,Colombia,Cundinamarca,Pasca,0
+COCUN25572,2020-02-11,Colombia,Cundinamarca,Puerto Salgar,0
+COCUN25580,2020-02-11,Colombia,Cundinamarca,Puli,0
+COCUN25592,2020-02-11,Colombia,Cundinamarca,Quebradanegra,0
+COCUN25594,2020-02-11,Colombia,Cundinamarca,Quetame,0
+COCUN25596,2020-02-11,Colombia,Cundinamarca,Quipile,0
+COCUN25599,2020-02-11,Colombia,Cundinamarca,Apulo,0
+COCUN25612,2020-02-11,Colombia,Cundinamarca,Ricaurte,0
+COCUN25645,2020-02-11,Colombia,Cundinamarca,San Antonio Del Tequendama,0
+COCUN25649,2020-02-11,Colombia,Cundinamarca,San Bernardo,0
+COCUN25653,2020-02-11,Colombia,Cundinamarca,San Cayetano,0
+COCUN25658,2020-02-11,Colombia,Cundinamarca,San Francisco,0
+COCUN25662,2020-02-11,Colombia,Cundinamarca,San Juan De Rioseco,0
+COCUN25718,2020-02-11,Colombia,Cundinamarca,Sasaima,0
+COCUN25736,2020-02-11,Colombia,Cundinamarca,Sesquile,0
+COCUN25740,2020-02-11,Colombia,Cundinamarca,Sibate,0
+COCUN25743,2020-02-11,Colombia,Cundinamarca,Silvania,0
+COCUN25745,2020-02-11,Colombia,Cundinamarca,Simijaca,0
+COCUN25754,2020-02-11,Colombia,Cundinamarca,Soacha,0
+COCUN25758,2020-02-11,Colombia,Cundinamarca,Sopo,0
+COCUN25769,2020-02-11,Colombia,Cundinamarca,Subachoque,0
+COCUN25772,2020-02-11,Colombia,Cundinamarca,Suesca,0
+COCUN25777,2020-02-11,Colombia,Cundinamarca,Supata,0
+COCUN25779,2020-02-11,Colombia,Cundinamarca,Susa,0
+COCUN25781,2020-02-11,Colombia,Cundinamarca,Sutatausa,0
+COCUN25785,2020-02-11,Colombia,Cundinamarca,Tabio,0
+COCUN25793,2020-02-11,Colombia,Cundinamarca,Tausa,0
+COCUN25797,2020-02-11,Colombia,Cundinamarca,Tena,0
+COCUN25799,2020-02-11,Colombia,Cundinamarca,Tenjo,0
+COCUN25805,2020-02-11,Colombia,Cundinamarca,Tibacuy,0
+COCUN25807,2020-02-11,Colombia,Cundinamarca,Tibirita,0
+COCUN25815,2020-02-11,Colombia,Cundinamarca,Tocaima,0
+COCUN25817,2020-02-11,Colombia,Cundinamarca,Tocancipa,0
+COCUN25823,2020-02-11,Colombia,Cundinamarca,Topaipi,0
+COCUN25839,2020-02-11,Colombia,Cundinamarca,Ubala,0
+COCUN25841,2020-02-11,Colombia,Cundinamarca,Ubaque,0
+COCUN25843,2020-02-11,Colombia,Cundinamarca,Villa De San Diego De Ubate,0
+COCUN25845,2020-02-11,Colombia,Cundinamarca,Une,0
+COCUN25851,2020-02-11,Colombia,Cundinamarca,Utica,0
+COCUN25862,2020-02-11,Colombia,Cundinamarca,Vergara,0
+COCUN25867,2020-02-11,Colombia,Cundinamarca,Viani,0
+COCUN25871,2020-02-11,Colombia,Cundinamarca,Villagomez,0
+COCUN25873,2020-02-11,Colombia,Cundinamarca,Villapinzon,0
+COCUN25875,2020-02-11,Colombia,Cundinamarca,Villeta,0
+COCUN25878,2020-02-11,Colombia,Cundinamarca,Viota,0
+COCUN25885,2020-02-11,Colombia,Cundinamarca,Yacopi,0
+COCUN25898,2020-02-11,Colombia,Cundinamarca,Zipacon,0
+COCUN25899,2020-02-11,Colombia,Cundinamarca,Zipaquira,0
+CODC11001,2020-02-11,Colombia,"Bogota, D.C.","Bogota, D.C.",0
+COGUA94001,2020-02-11,Colombia,Guainia,Inirida,0
+COGUA94343,2020-02-11,Colombia,Guainia,Barrancominas,0
+COGUA94663,2020-02-11,Colombia,Guainia,Mapiripana,0
+COGUA94883,2020-02-11,Colombia,Guainia,San Felipe,0
+COGUA94884,2020-02-11,Colombia,Guainia,Puerto Colombia,0
+COGUA94885,2020-02-11,Colombia,Guainia,La Guadalupe,0
+COGUA94886,2020-02-11,Colombia,Guainia,Cacahual,0
+COGUA94887,2020-02-11,Colombia,Guainia,Pana Pana,0
+COGUA94888,2020-02-11,Colombia,Guainia,Morichal,0
+COGUV95001,2020-02-11,Colombia,Guaviare,San Jose Del Guaviare,0
+COGUV95015,2020-02-11,Colombia,Guaviare,Calamar,0
+COGUV95025,2020-02-11,Colombia,Guaviare,El Retorno,0
+COGUV95200,2020-02-11,Colombia,Guaviare,Miraflores,0
+COHUI41001,2020-02-11,Colombia,Huila,Neiva,0
+COHUI41006,2020-02-11,Colombia,Huila,Acevedo,0
+COHUI41013,2020-02-11,Colombia,Huila,Agrado,0
+COHUI41016,2020-02-11,Colombia,Huila,Aipe,0
+COHUI41020,2020-02-11,Colombia,Huila,Algeciras,0
+COHUI41026,2020-02-11,Colombia,Huila,Altamira,0
+COHUI41078,2020-02-11,Colombia,Huila,Baraya,0
+COHUI41132,2020-02-11,Colombia,Huila,Campoalegre,0
+COHUI41206,2020-02-11,Colombia,Huila,Colombia,0
+COHUI41244,2020-02-11,Colombia,Huila,Elias,0
+COHUI41298,2020-02-11,Colombia,Huila,Garzon,0
+COHUI41306,2020-02-11,Colombia,Huila,Gigante,0
+COHUI41319,2020-02-11,Colombia,Huila,Guadalupe,0
+COHUI41349,2020-02-11,Colombia,Huila,Hobo,0
+COHUI41357,2020-02-11,Colombia,Huila,Iquira,0
+COHUI41359,2020-02-11,Colombia,Huila,Isnos,0
+COHUI41378,2020-02-11,Colombia,Huila,La Argentina,0
+COHUI41396,2020-02-11,Colombia,Huila,La Plata,0
+COHUI41483,2020-02-11,Colombia,Huila,Nataga,0
+COHUI41503,2020-02-11,Colombia,Huila,Oporapa,0
+COHUI41518,2020-02-11,Colombia,Huila,Paicol,0
+COHUI41524,2020-02-11,Colombia,Huila,Palermo,0
+COHUI41530,2020-02-11,Colombia,Huila,Palestina,0
+COHUI41548,2020-02-11,Colombia,Huila,Pital,0
+COHUI41551,2020-02-11,Colombia,Huila,Pitalito,0
+COHUI41615,2020-02-11,Colombia,Huila,Rivera,0
+COHUI41660,2020-02-11,Colombia,Huila,Saladoblanco,0
+COHUI41668,2020-02-11,Colombia,Huila,San Agustin,0
+COHUI41676,2020-02-11,Colombia,Huila,Santa Maria,0
+COHUI41770,2020-02-11,Colombia,Huila,Suaza,0
+COHUI41791,2020-02-11,Colombia,Huila,Tarqui,0
+COHUI41797,2020-02-11,Colombia,Huila,Tesalia,0
+COHUI41799,2020-02-11,Colombia,Huila,Tello,0
+COHUI41801,2020-02-11,Colombia,Huila,Teruel,0
+COHUI41807,2020-02-11,Colombia,Huila,Timana,0
+COHUI41872,2020-02-11,Colombia,Huila,Villavieja,0
+COHUI41885,2020-02-11,Colombia,Huila,Yaguara,0
+COLAG44001,2020-02-11,Colombia,La Guajira,Riohacha,0
+COLAG44035,2020-02-11,Colombia,La Guajira,Albania,0
+COLAG44078,2020-02-11,Colombia,La Guajira,Barrancas,0
+COLAG44090,2020-02-11,Colombia,La Guajira,Dibulla,0
+COLAG44098,2020-02-11,Colombia,La Guajira,Distraccion,0
+COLAG44110,2020-02-11,Colombia,La Guajira,El Molino,0
+COLAG44279,2020-02-11,Colombia,La Guajira,Fonseca,0
+COLAG44378,2020-02-11,Colombia,La Guajira,Hatonuevo,0
+COLAG44420,2020-02-11,Colombia,La Guajira,La Jagua Del Pilar,0
+COLAG44430,2020-02-11,Colombia,La Guajira,Maicao,0
+COLAG44560,2020-02-11,Colombia,La Guajira,Manaure,0
+COLAG44650,2020-02-11,Colombia,La Guajira,San Juan Del Cesar,0
+COLAG44847,2020-02-11,Colombia,La Guajira,Uribia,0
+COLAG44855,2020-02-11,Colombia,La Guajira,Urumita,0
+COLAG44874,2020-02-11,Colombia,La Guajira,Villanueva,0
+COMAG47001,2020-02-11,Colombia,Magdalena,Santa Marta,0
+COMAG47030,2020-02-11,Colombia,Magdalena,Algarrobo,0
+COMAG47053,2020-02-11,Colombia,Magdalena,Aracataca,0
+COMAG47058,2020-02-11,Colombia,Magdalena,Ariguani,0
+COMAG47161,2020-02-11,Colombia,Magdalena,Cerro De San Antonio,0
+COMAG47170,2020-02-11,Colombia,Magdalena,Chivolo,0
+COMAG47189,2020-02-11,Colombia,Magdalena,Cienaga,0
+COMAG47205,2020-02-11,Colombia,Magdalena,Concordia,0
+COMAG47245,2020-02-11,Colombia,Magdalena,El Banco,0
+COMAG47258,2020-02-11,Colombia,Magdalena,El Pinon,0
+COMAG47268,2020-02-11,Colombia,Magdalena,El Reten,0
+COMAG47288,2020-02-11,Colombia,Magdalena,Fundacion,0
+COMAG47318,2020-02-11,Colombia,Magdalena,Guamal,0
+COMAG47460,2020-02-11,Colombia,Magdalena,Nueva Granada,0
+COMAG47541,2020-02-11,Colombia,Magdalena,Pedraza,0
+COMAG47545,2020-02-11,Colombia,Magdalena,Pijino Del Carmen,0
+COMAG47551,2020-02-11,Colombia,Magdalena,Pivijay,0
+COMAG47555,2020-02-11,Colombia,Magdalena,Plato,0
+COMAG47570,2020-02-11,Colombia,Magdalena,Puebloviejo,0
+COMAG47605,2020-02-11,Colombia,Magdalena,Remolino,0
+COMAG47660,2020-02-11,Colombia,Magdalena,Sabanas De San Angel,0
+COMAG47675,2020-02-11,Colombia,Magdalena,Salamina,0
+COMAG47692,2020-02-11,Colombia,Magdalena,San Sebastian De Buenavista,0
+COMAG47703,2020-02-11,Colombia,Magdalena,San Zenon,0
+COMAG47707,2020-02-11,Colombia,Magdalena,Santa Ana,0
+COMAG47720,2020-02-11,Colombia,Magdalena,Santa Barbara De Pinto,0
+COMAG47745,2020-02-11,Colombia,Magdalena,Sitionuevo,0
+COMAG47798,2020-02-11,Colombia,Magdalena,Tenerife,0
+COMAG47960,2020-02-11,Colombia,Magdalena,Zapayan,0
+COMAG47980,2020-02-11,Colombia,Magdalena,Zona Bananera,0
+COMET50001,2020-02-11,Colombia,Meta,Villavicencio,0
+COMET50006,2020-02-11,Colombia,Meta,Acacias,0
+COMET50110,2020-02-11,Colombia,Meta,Barranca De Upia,0
+COMET50124,2020-02-11,Colombia,Meta,Cabuyaro,0
+COMET50150,2020-02-11,Colombia,Meta,Castilla La Nueva,0
+COMET50223,2020-02-11,Colombia,Meta,Cubarral,0
+COMET50226,2020-02-11,Colombia,Meta,Cumaral,0
+COMET50245,2020-02-11,Colombia,Meta,El Calvario,0
+COMET50251,2020-02-11,Colombia,Meta,El Castillo,0
+COMET50270,2020-02-11,Colombia,Meta,El Dorado,0
+COMET50287,2020-02-11,Colombia,Meta,Fuente De Oro,0
+COMET50313,2020-02-11,Colombia,Meta,Granada,0
+COMET50318,2020-02-11,Colombia,Meta,Guamal,0
+COMET50325,2020-02-11,Colombia,Meta,Mapiripan,0
+COMET50330,2020-02-11,Colombia,Meta,Mesetas,0
+COMET50350,2020-02-11,Colombia,Meta,La Macarena,0
+COMET50370,2020-02-11,Colombia,Meta,Uribe,0
+COMET50400,2020-02-11,Colombia,Meta,Lejanias,0
+COMET50450,2020-02-11,Colombia,Meta,Puerto Concordia,0
+COMET50568,2020-02-11,Colombia,Meta,Puerto Gaitan,0
+COMET50573,2020-02-11,Colombia,Meta,Puerto Lopez,0
+COMET50577,2020-02-11,Colombia,Meta,Puerto Lleras,0
+COMET50590,2020-02-11,Colombia,Meta,Puerto Rico,0
+COMET50606,2020-02-11,Colombia,Meta,Restrepo,0
+COMET50680,2020-02-11,Colombia,Meta,San Carlos De Guaroa,0
+COMET50683,2020-02-11,Colombia,Meta,San Juan De Arama,0
+COMET50686,2020-02-11,Colombia,Meta,San Juanito,0
+COMET50689,2020-02-11,Colombia,Meta,San Martin,0
+COMET50711,2020-02-11,Colombia,Meta,Vistahermosa,0
+CONAR52001,2020-02-11,Colombia,Narino,Pasto,0
+CONAR52019,2020-02-11,Colombia,Narino,Alban,0
+CONAR52022,2020-02-11,Colombia,Narino,Aldana,0
+CONAR52036,2020-02-11,Colombia,Narino,Ancuya,0
+CONAR52051,2020-02-11,Colombia,Narino,Arboleda,0
+CONAR52079,2020-02-11,Colombia,Narino,Barbacoas,0
+CONAR52083,2020-02-11,Colombia,Narino,Belen,0
+CONAR52110,2020-02-11,Colombia,Narino,Buesaco,0
+CONAR52203,2020-02-11,Colombia,Narino,Colon,0
+CONAR52207,2020-02-11,Colombia,Narino,Consaca,0
+CONAR52210,2020-02-11,Colombia,Narino,Contadero,0
+CONAR52215,2020-02-11,Colombia,Narino,Cordoba,0
+CONAR52224,2020-02-11,Colombia,Narino,Cuaspud Carlosama,0
+CONAR52227,2020-02-11,Colombia,Narino,Cumbal,0
+CONAR52233,2020-02-11,Colombia,Narino,Cumbitara,0
+CONAR52240,2020-02-11,Colombia,Narino,Chachagui,0
+CONAR52250,2020-02-11,Colombia,Narino,El Charco,0
+CONAR52254,2020-02-11,Colombia,Narino,El Penol,0
+CONAR52256,2020-02-11,Colombia,Narino,El Rosario,0
+CONAR52258,2020-02-11,Colombia,Narino,El Tablon De Gomez,0
+CONAR52260,2020-02-11,Colombia,Narino,El Tambo,0
+CONAR52287,2020-02-11,Colombia,Narino,Funes,0
+CONAR52317,2020-02-11,Colombia,Narino,Guachucal,0
+CONAR52320,2020-02-11,Colombia,Narino,Guaitarilla,0
+CONAR52323,2020-02-11,Colombia,Narino,Gualmatan,0
+CONAR52352,2020-02-11,Colombia,Narino,Iles,0
+CONAR52354,2020-02-11,Colombia,Narino,Imues,0
+CONAR52356,2020-02-11,Colombia,Narino,Ipiales,0
+CONAR52378,2020-02-11,Colombia,Narino,La Cruz,0
+CONAR52381,2020-02-11,Colombia,Narino,La Florida,0
+CONAR52385,2020-02-11,Colombia,Narino,La Llanada,0
+CONAR52390,2020-02-11,Colombia,Narino,La Tola,0
+CONAR52399,2020-02-11,Colombia,Narino,La Union,0
+CONAR52405,2020-02-11,Colombia,Narino,Leiva,0
+CONAR52411,2020-02-11,Colombia,Narino,Linares,0
+CONAR52418,2020-02-11,Colombia,Narino,Los Andes,0
+CONAR52427,2020-02-11,Colombia,Narino,Magui,0
+CONAR52435,2020-02-11,Colombia,Narino,Mallama,0
+CONAR52473,2020-02-11,Colombia,Narino,Mosquera,0
+CONAR52480,2020-02-11,Colombia,Narino,Narino,0
+CONAR52490,2020-02-11,Colombia,Narino,Olaya Herrera,0
+CONAR52506,2020-02-11,Colombia,Narino,Ospina,0
+CONAR52520,2020-02-11,Colombia,Narino,Francisco Pizarro,0
+CONAR52540,2020-02-11,Colombia,Narino,Policarpa,0
+CONAR52560,2020-02-11,Colombia,Narino,Potosi,0
+CONAR52565,2020-02-11,Colombia,Narino,Providencia,0
+CONAR52573,2020-02-11,Colombia,Narino,Puerres,0
+CONAR52585,2020-02-11,Colombia,Narino,Pupiales,0
+CONAR52612,2020-02-11,Colombia,Narino,Ricaurte,0
+CONAR52621,2020-02-11,Colombia,Narino,Roberto Payan,0
+CONAR52678,2020-02-11,Colombia,Narino,Samaniego,0
+CONAR52683,2020-02-11,Colombia,Narino,Sandona,0
+CONAR52685,2020-02-11,Colombia,Narino,San Bernardo,0
+CONAR52687,2020-02-11,Colombia,Narino,San Lorenzo,0
+CONAR52693,2020-02-11,Colombia,Narino,San Pablo,0
+CONAR52694,2020-02-11,Colombia,Narino,San Pedro De Cartago,0
+CONAR52696,2020-02-11,Colombia,Narino,Santa Barbara,0
+CONAR52699,2020-02-11,Colombia,Narino,Santacruz,0
+CONAR52720,2020-02-11,Colombia,Narino,Sapuyes,0
+CONAR52786,2020-02-11,Colombia,Narino,Taminango,0
+CONAR52788,2020-02-11,Colombia,Narino,Tangua,0
+CONAR52835,2020-02-11,Colombia,Narino,San Andres De Tumaco,0
+CONAR52838,2020-02-11,Colombia,Narino,Tuquerres,0
+CONAR52885,2020-02-11,Colombia,Narino,Yacuanquer,0
+CONSA54001,2020-02-11,Colombia,Norte De Santander,San Jose De Cucuta,0
+CONSA54003,2020-02-11,Colombia,Norte De Santander,Abrego,0
+CONSA54051,2020-02-11,Colombia,Norte De Santander,Arboledas,0
+CONSA54099,2020-02-11,Colombia,Norte De Santander,Bochalema,0
+CONSA54109,2020-02-11,Colombia,Norte De Santander,Bucarasica,0
+CONSA54125,2020-02-11,Colombia,Norte De Santander,Cacota,0
+CONSA54128,2020-02-11,Colombia,Norte De Santander,Cachira,0
+CONSA54172,2020-02-11,Colombia,Norte De Santander,Chinacota,0
+CONSA54174,2020-02-11,Colombia,Norte De Santander,Chitaga,0
+CONSA54206,2020-02-11,Colombia,Norte De Santander,Convencion,0
+CONSA54223,2020-02-11,Colombia,Norte De Santander,Cucutilla,0
+CONSA54239,2020-02-11,Colombia,Norte De Santander,Durania,0
+CONSA54245,2020-02-11,Colombia,Norte De Santander,El Carmen,0
+CONSA54250,2020-02-11,Colombia,Norte De Santander,El Tarra,0
+CONSA54261,2020-02-11,Colombia,Norte De Santander,El Zulia,0
+CONSA54313,2020-02-11,Colombia,Norte De Santander,Gramalote,0
+CONSA54344,2020-02-11,Colombia,Norte De Santander,Hacari,0
+CONSA54347,2020-02-11,Colombia,Norte De Santander,Herran,0
+CONSA54377,2020-02-11,Colombia,Norte De Santander,Labateca,0
+CONSA54385,2020-02-11,Colombia,Norte De Santander,La Esperanza,0
+CONSA54398,2020-02-11,Colombia,Norte De Santander,La Playa,0
+CONSA54405,2020-02-11,Colombia,Norte De Santander,Los Patios,0
+CONSA54418,2020-02-11,Colombia,Norte De Santander,Lourdes,0
+CONSA54480,2020-02-11,Colombia,Norte De Santander,Mutiscua,0
+CONSA54498,2020-02-11,Colombia,Norte De Santander,Ocana,0
+CONSA54518,2020-02-11,Colombia,Norte De Santander,Pamplona,0
+CONSA54520,2020-02-11,Colombia,Norte De Santander,Pamplonita,0
+CONSA54553,2020-02-11,Colombia,Norte De Santander,Puerto Santander,0
+CONSA54599,2020-02-11,Colombia,Norte De Santander,Ragonvalia,0
+CONSA54660,2020-02-11,Colombia,Norte De Santander,Salazar,0
+CONSA54670,2020-02-11,Colombia,Norte De Santander,San Calixto,0
+CONSA54673,2020-02-11,Colombia,Norte De Santander,San Cayetano,0
+CONSA54680,2020-02-11,Colombia,Norte De Santander,Santiago,0
+CONSA54720,2020-02-11,Colombia,Norte De Santander,Sardinata,0
+CONSA54743,2020-02-11,Colombia,Norte De Santander,Silos,0
+CONSA54800,2020-02-11,Colombia,Norte De Santander,Teorama,0
+CONSA54810,2020-02-11,Colombia,Norte De Santander,Tibu,0
+CONSA54820,2020-02-11,Colombia,Norte De Santander,Toledo,0
+CONSA54871,2020-02-11,Colombia,Norte De Santander,Villa Caro,0
+CONSA54874,2020-02-11,Colombia,Norte De Santander,Villa Del Rosario,0
+COPUT86001,2020-02-11,Colombia,Putumayo,Mocoa,0
+COPUT86219,2020-02-11,Colombia,Putumayo,Colon,0
+COPUT86320,2020-02-11,Colombia,Putumayo,Orito,0
+COPUT86568,2020-02-11,Colombia,Putumayo,Puerto Asis,0
+COPUT86569,2020-02-11,Colombia,Putumayo,Puerto Caicedo,0
+COPUT86571,2020-02-11,Colombia,Putumayo,Puerto Guzman,0
+COPUT86573,2020-02-11,Colombia,Putumayo,Puerto Leguizamo,0
+COPUT86749,2020-02-11,Colombia,Putumayo,Sibundoy,0
+COPUT86755,2020-02-11,Colombia,Putumayo,San Francisco,0
+COPUT86757,2020-02-11,Colombia,Putumayo,San Miguel,0
+COPUT86760,2020-02-11,Colombia,Putumayo,Santiago,0
+COPUT86865,2020-02-11,Colombia,Putumayo,Valle Del Guamuez,0
+COPUT86885,2020-02-11,Colombia,Putumayo,Villagarzon,0
+COQUI63001,2020-02-11,Colombia,Quindio,Armenia,0
+COQUI63111,2020-02-11,Colombia,Quindio,Buenavista,0
+COQUI63130,2020-02-11,Colombia,Quindio,Calarca,0
+COQUI63190,2020-02-11,Colombia,Quindio,Circasia,0
+COQUI63212,2020-02-11,Colombia,Quindio,Cordoba,0
+COQUI63272,2020-02-11,Colombia,Quindio,Filandia,0
+COQUI63302,2020-02-11,Colombia,Quindio,Genova,0
+COQUI63401,2020-02-11,Colombia,Quindio,La Tebaida,0
+COQUI63470,2020-02-11,Colombia,Quindio,Montenegro,0
+COQUI63548,2020-02-11,Colombia,Quindio,Pijao,0
+COQUI63594,2020-02-11,Colombia,Quindio,Quimbaya,0
+COQUI63690,2020-02-11,Colombia,Quindio,Salento,0
+CORIS66001,2020-02-11,Colombia,Risaralda,Pereira,0
+CORIS66045,2020-02-11,Colombia,Risaralda,Apia,0
+CORIS66075,2020-02-11,Colombia,Risaralda,Balboa,0
+CORIS66088,2020-02-11,Colombia,Risaralda,Belen De Umbria,0
+CORIS66170,2020-02-11,Colombia,Risaralda,Dosquebradas,0
+CORIS66318,2020-02-11,Colombia,Risaralda,Guatica,0
+CORIS66383,2020-02-11,Colombia,Risaralda,La Celia,0
+CORIS66400,2020-02-11,Colombia,Risaralda,La Virginia,0
+CORIS66440,2020-02-11,Colombia,Risaralda,Marsella,0
+CORIS66456,2020-02-11,Colombia,Risaralda,Mistrato,0
+CORIS66572,2020-02-11,Colombia,Risaralda,Pueblo Rico,0
+CORIS66594,2020-02-11,Colombia,Risaralda,Quinchia,0
+CORIS66682,2020-02-11,Colombia,Risaralda,Santa Rosa De Cabal,0
+CORIS66687,2020-02-11,Colombia,Risaralda,Santuario,0
+COSAN68001,2020-02-11,Colombia,Santander,Bucaramanga,0
+COSAN68013,2020-02-11,Colombia,Santander,Aguada,0
+COSAN68020,2020-02-11,Colombia,Santander,Albania,0
+COSAN68051,2020-02-11,Colombia,Santander,Aratoca,0
+COSAN68077,2020-02-11,Colombia,Santander,Barbosa,0
+COSAN68079,2020-02-11,Colombia,Santander,Barichara,0
+COSAN68081,2020-02-11,Colombia,Santander,Barrancabermeja,0
+COSAN68092,2020-02-11,Colombia,Santander,Betulia,0
+COSAN68101,2020-02-11,Colombia,Santander,Bolivar,0
+COSAN68121,2020-02-11,Colombia,Santander,Cabrera,0
+COSAN68132,2020-02-11,Colombia,Santander,California,0
+COSAN68147,2020-02-11,Colombia,Santander,Capitanejo,0
+COSAN68152,2020-02-11,Colombia,Santander,Carcasi,0
+COSAN68160,2020-02-11,Colombia,Santander,Cepita,0
+COSAN68162,2020-02-11,Colombia,Santander,Cerrito,0
+COSAN68167,2020-02-11,Colombia,Santander,Charala,0
+COSAN68169,2020-02-11,Colombia,Santander,Charta,0
+COSAN68176,2020-02-11,Colombia,Santander,Chima,0
+COSAN68179,2020-02-11,Colombia,Santander,Chipata,0
+COSAN68190,2020-02-11,Colombia,Santander,Cimitarra,0
+COSAN68207,2020-02-11,Colombia,Santander,Concepcion,0
+COSAN68209,2020-02-11,Colombia,Santander,Confines,0
+COSAN68211,2020-02-11,Colombia,Santander,Contratacion,0
+COSAN68217,2020-02-11,Colombia,Santander,Coromoro,0
+COSAN68229,2020-02-11,Colombia,Santander,Curiti,0
+COSAN68235,2020-02-11,Colombia,Santander,El Carmen De Chucuri,0
+COSAN68245,2020-02-11,Colombia,Santander,El Guacamayo,0
+COSAN68250,2020-02-11,Colombia,Santander,El Penon,0
+COSAN68255,2020-02-11,Colombia,Santander,El Playon,0
+COSAN68264,2020-02-11,Colombia,Santander,Encino,0
+COSAN68266,2020-02-11,Colombia,Santander,Enciso,0
+COSAN68271,2020-02-11,Colombia,Santander,Florian,0
+COSAN68276,2020-02-11,Colombia,Santander,Floridablanca,0
+COSAN68296,2020-02-11,Colombia,Santander,Galan,0
+COSAN68298,2020-02-11,Colombia,Santander,Gambita,0
+COSAN68307,2020-02-11,Colombia,Santander,Giron,0
+COSAN68318,2020-02-11,Colombia,Santander,Guaca,0
+COSAN68320,2020-02-11,Colombia,Santander,Guadalupe,0
+COSAN68322,2020-02-11,Colombia,Santander,Guapota,0
+COSAN68324,2020-02-11,Colombia,Santander,Guavata,0
+COSAN68327,2020-02-11,Colombia,Santander,Guepsa,0
+COSAN68344,2020-02-11,Colombia,Santander,Hato,0
+COSAN68368,2020-02-11,Colombia,Santander,Jesus Maria,0
+COSAN68370,2020-02-11,Colombia,Santander,Jordan,0
+COSAN68377,2020-02-11,Colombia,Santander,La Belleza,0
+COSAN68385,2020-02-11,Colombia,Santander,Landazuri,0
+COSAN68397,2020-02-11,Colombia,Santander,La Paz,0
+COSAN68406,2020-02-11,Colombia,Santander,Lebrija,0
+COSAN68418,2020-02-11,Colombia,Santander,Los Santos,0
+COSAN68425,2020-02-11,Colombia,Santander,Macaravita,0
+COSAN68432,2020-02-11,Colombia,Santander,Malaga,0
+COSAN68444,2020-02-11,Colombia,Santander,Matanza,0
+COSAN68464,2020-02-11,Colombia,Santander,Mogotes,0
+COSAN68468,2020-02-11,Colombia,Santander,Molagavita,0
+COSAN68498,2020-02-11,Colombia,Santander,Ocamonte,0
+COSAN68500,2020-02-11,Colombia,Santander,Oiba,0
+COSAN68502,2020-02-11,Colombia,Santander,Onzaga,0
+COSAN68522,2020-02-11,Colombia,Santander,Palmar,0
+COSAN68524,2020-02-11,Colombia,Santander,Palmas Del Socorro,0
+COSAN68533,2020-02-11,Colombia,Santander,Paramo,0
+COSAN68547,2020-02-11,Colombia,Santander,Piedecuesta,0
+COSAN68549,2020-02-11,Colombia,Santander,Pinchote,0
+COSAN68572,2020-02-11,Colombia,Santander,Puente Nacional,0
+COSAN68573,2020-02-11,Colombia,Santander,Puerto Parra,0
+COSAN68575,2020-02-11,Colombia,Santander,Puerto Wilches,0
+COSAN68615,2020-02-11,Colombia,Santander,Rionegro,0
+COSAN68655,2020-02-11,Colombia,Santander,Sabana De Torres,0
+COSAN68669,2020-02-11,Colombia,Santander,San Andres,0
+COSAN68673,2020-02-11,Colombia,Santander,San Benito,0
+COSAN68679,2020-02-11,Colombia,Santander,San Gil,0
+COSAN68682,2020-02-11,Colombia,Santander,San Joaquin,0
+COSAN68684,2020-02-11,Colombia,Santander,San Jose De Miranda,0
+COSAN68686,2020-02-11,Colombia,Santander,San Miguel,0
+COSAN68689,2020-02-11,Colombia,Santander,San Vicente De Chucuri,0
+COSAN68705,2020-02-11,Colombia,Santander,Santa Barbara,0
+COSAN68720,2020-02-11,Colombia,Santander,Santa Helena Del Opon,0
+COSAN68745,2020-02-11,Colombia,Santander,Simacota,0
+COSAN68755,2020-02-11,Colombia,Santander,Socorro,0
+COSAN68770,2020-02-11,Colombia,Santander,Suaita,0
+COSAN68773,2020-02-11,Colombia,Santander,Sucre,0
+COSAN68780,2020-02-11,Colombia,Santander,Surata,0
+COSAN68820,2020-02-11,Colombia,Santander,Tona,0
+COSAN68855,2020-02-11,Colombia,Santander,Valle De San Jose,0
+COSAN68861,2020-02-11,Colombia,Santander,Velez,0
+COSAN68867,2020-02-11,Colombia,Santander,Vetas,0
+COSAN68872,2020-02-11,Colombia,Santander,Villanueva,0
+COSAN68895,2020-02-11,Colombia,Santander,Zapatoca,0
+COSAP88001,2020-02-11,Colombia,"Archipielago De San Andres, Providencia Y Santa Catalina",San Andres,0
+COSAP88564,2020-02-11,Colombia,"Archipielago De San Andres, Providencia Y Santa Catalina",Providencia,0
+COSUC70001,2020-02-11,Colombia,Sucre,Sincelejo,0
+COSUC70110,2020-02-11,Colombia,Sucre,Buenavista,0
+COSUC70124,2020-02-11,Colombia,Sucre,Caimito,0
+COSUC70204,2020-02-11,Colombia,Sucre,Coloso,0
+COSUC70215,2020-02-11,Colombia,Sucre,Corozal,0
+COSUC70221,2020-02-11,Colombia,Sucre,Covenas,0
+COSUC70230,2020-02-11,Colombia,Sucre,Chalan,0
+COSUC70233,2020-02-11,Colombia,Sucre,El Roble,0
+COSUC70235,2020-02-11,Colombia,Sucre,Galeras,0
+COSUC70265,2020-02-11,Colombia,Sucre,Guaranda,0
+COSUC70400,2020-02-11,Colombia,Sucre,La Union,0
+COSUC70418,2020-02-11,Colombia,Sucre,Los Palmitos,0
+COSUC70429,2020-02-11,Colombia,Sucre,Majagual,0
+COSUC70473,2020-02-11,Colombia,Sucre,Morroa,0
+COSUC70508,2020-02-11,Colombia,Sucre,Ovejas,0
+COSUC70523,2020-02-11,Colombia,Sucre,Palmito,0
+COSUC70670,2020-02-11,Colombia,Sucre,Sampues,0
+COSUC70678,2020-02-11,Colombia,Sucre,San Benito Abad,0
+COSUC70702,2020-02-11,Colombia,Sucre,San Juan De Betulia,0
+COSUC70708,2020-02-11,Colombia,Sucre,San Marcos,0
+COSUC70713,2020-02-11,Colombia,Sucre,San Onofre,0
+COSUC70717,2020-02-11,Colombia,Sucre,San Pedro,0
+COSUC70742,2020-02-11,Colombia,Sucre,San Luis De Since,0
+COSUC70771,2020-02-11,Colombia,Sucre,Sucre,0
+COSUC70820,2020-02-11,Colombia,Sucre,Santiago De Tolu,0
+COSUC70823,2020-02-11,Colombia,Sucre,San Jose De Toluviejo,0
+COTOL73001,2020-02-11,Colombia,Tolima,Ibague,0
+COTOL73024,2020-02-11,Colombia,Tolima,Alpujarra,0
+COTOL73026,2020-02-11,Colombia,Tolima,Alvarado,0
+COTOL73030,2020-02-11,Colombia,Tolima,Ambalema,0
+COTOL73043,2020-02-11,Colombia,Tolima,Anzoategui,0
+COTOL73055,2020-02-11,Colombia,Tolima,Armero,0
+COTOL73067,2020-02-11,Colombia,Tolima,Ataco,0
+COTOL73124,2020-02-11,Colombia,Tolima,Cajamarca,0
+COTOL73148,2020-02-11,Colombia,Tolima,Carmen De Apicala,0
+COTOL73152,2020-02-11,Colombia,Tolima,Casabianca,0
+COTOL73168,2020-02-11,Colombia,Tolima,Chaparral,0
+COTOL73200,2020-02-11,Colombia,Tolima,Coello,0
+COTOL73217,2020-02-11,Colombia,Tolima,Coyaima,0
+COTOL73226,2020-02-11,Colombia,Tolima,Cunday,0
+COTOL73236,2020-02-11,Colombia,Tolima,Dolores,0
+COTOL73268,2020-02-11,Colombia,Tolima,Espinal,0
+COTOL73270,2020-02-11,Colombia,Tolima,Falan,0
+COTOL73275,2020-02-11,Colombia,Tolima,Flandes,0
+COTOL73283,2020-02-11,Colombia,Tolima,Fresno,0
+COTOL73319,2020-02-11,Colombia,Tolima,Guamo,0
+COTOL73347,2020-02-11,Colombia,Tolima,Herveo,0
+COTOL73349,2020-02-11,Colombia,Tolima,Honda,0
+COTOL73352,2020-02-11,Colombia,Tolima,Icononzo,0
+COTOL73408,2020-02-11,Colombia,Tolima,Lerida,0
+COTOL73411,2020-02-11,Colombia,Tolima,Libano,0
+COTOL73443,2020-02-11,Colombia,Tolima,San Sebastian De Mariquita,0
+COTOL73449,2020-02-11,Colombia,Tolima,Melgar,0
+COTOL73461,2020-02-11,Colombia,Tolima,Murillo,0
+COTOL73483,2020-02-11,Colombia,Tolima,Natagaima,0
+COTOL73504,2020-02-11,Colombia,Tolima,Ortega,0
+COTOL73520,2020-02-11,Colombia,Tolima,Palocabildo,0
+COTOL73547,2020-02-11,Colombia,Tolima,Piedras,0
+COTOL73555,2020-02-11,Colombia,Tolima,Planadas,0
+COTOL73563,2020-02-11,Colombia,Tolima,Prado,0
+COTOL73585,2020-02-11,Colombia,Tolima,Purificacion,0
+COTOL73616,2020-02-11,Colombia,Tolima,Rioblanco,0
+COTOL73622,2020-02-11,Colombia,Tolima,Roncesvalles,0
+COTOL73624,2020-02-11,Colombia,Tolima,Rovira,0
+COTOL73671,2020-02-11,Colombia,Tolima,Saldana,0
+COTOL73675,2020-02-11,Colombia,Tolima,San Antonio,0
+COTOL73678,2020-02-11,Colombia,Tolima,San Luis,0
+COTOL73686,2020-02-11,Colombia,Tolima,Santa Isabel,0
+COTOL73770,2020-02-11,Colombia,Tolima,Suarez,0
+COTOL73854,2020-02-11,Colombia,Tolima,Valle De San Juan,0
+COTOL73861,2020-02-11,Colombia,Tolima,Venadillo,0
+COTOL73870,2020-02-11,Colombia,Tolima,Villahermosa,0
+COTOL73873,2020-02-11,Colombia,Tolima,Villarrica,0
+COVAC76001,2020-02-11,Colombia,Valle Del Cauca,Cali,0
+COVAC76020,2020-02-11,Colombia,Valle Del Cauca,Alcala,0
+COVAC76036,2020-02-11,Colombia,Valle Del Cauca,Andalucia,0
+COVAC76041,2020-02-11,Colombia,Valle Del Cauca,Ansermanuevo,0
+COVAC76054,2020-02-11,Colombia,Valle Del Cauca,Argelia,0
+COVAC76100,2020-02-11,Colombia,Valle Del Cauca,Bolivar,0
+COVAC76109,2020-02-11,Colombia,Valle Del Cauca,Buenaventura,0
+COVAC76111,2020-02-11,Colombia,Valle Del Cauca,Guadalajara De Buga,0
+COVAC76113,2020-02-11,Colombia,Valle Del Cauca,Bugalagrande,0
+COVAC76122,2020-02-11,Colombia,Valle Del Cauca,Caicedonia,0
+COVAC76126,2020-02-11,Colombia,Valle Del Cauca,Calima,0
+COVAC76130,2020-02-11,Colombia,Valle Del Cauca,Candelaria,0
+COVAC76147,2020-02-11,Colombia,Valle Del Cauca,Cartago,0
+COVAC76233,2020-02-11,Colombia,Valle Del Cauca,Dagua,0
+COVAC76243,2020-02-11,Colombia,Valle Del Cauca,El Aguila,0
+COVAC76246,2020-02-11,Colombia,Valle Del Cauca,El Cairo,0
+COVAC76248,2020-02-11,Colombia,Valle Del Cauca,El Cerrito,0
+COVAC76250,2020-02-11,Colombia,Valle Del Cauca,El Dovio,0
+COVAC76275,2020-02-11,Colombia,Valle Del Cauca,Florida,0
+COVAC76306,2020-02-11,Colombia,Valle Del Cauca,Ginebra,0
+COVAC76318,2020-02-11,Colombia,Valle Del Cauca,Guacari,0
+COVAC76364,2020-02-11,Colombia,Valle Del Cauca,Jamundi,0
+COVAC76377,2020-02-11,Colombia,Valle Del Cauca,La Cumbre,0
+COVAC76400,2020-02-11,Colombia,Valle Del Cauca,La Union,0
+COVAC76403,2020-02-11,Colombia,Valle Del Cauca,La Victoria,0
+COVAC76497,2020-02-11,Colombia,Valle Del Cauca,Obando,0
+COVAC76520,2020-02-11,Colombia,Valle Del Cauca,Palmira,0
+COVAC76563,2020-02-11,Colombia,Valle Del Cauca,Pradera,0
+COVAC76606,2020-02-11,Colombia,Valle Del Cauca,Restrepo,0
+COVAC76616,2020-02-11,Colombia,Valle Del Cauca,Riofrio,0
+COVAC76622,2020-02-11,Colombia,Valle Del Cauca,Roldanillo,0
+COVAC76670,2020-02-11,Colombia,Valle Del Cauca,San Pedro,0
+COVAC76736,2020-02-11,Colombia,Valle Del Cauca,Sevilla,0
+COVAC76823,2020-02-11,Colombia,Valle Del Cauca,Toro,0
+COVAC76828,2020-02-11,Colombia,Valle Del Cauca,Trujillo,0
+COVAC76834,2020-02-11,Colombia,Valle Del Cauca,Tulua,0
+COVAC76845,2020-02-11,Colombia,Valle Del Cauca,Ulloa,0
+COVAC76863,2020-02-11,Colombia,Valle Del Cauca,Versalles,0
+COVAC76869,2020-02-11,Colombia,Valle Del Cauca,Vijes,0
+COVAC76890,2020-02-11,Colombia,Valle Del Cauca,Yotoco,0
+COVAC76892,2020-02-11,Colombia,Valle Del Cauca,Yumbo,0
+COVAC76895,2020-02-11,Colombia,Valle Del Cauca,Zarzal,0
+COVAU97001,2020-02-11,Colombia,Vaupes,Mitu,0
+COVAU97161,2020-02-11,Colombia,Vaupes,Caruru,0
+COVAU97511,2020-02-11,Colombia,Vaupes,Pacoa,0
+COVAU97666,2020-02-11,Colombia,Vaupes,Taraira,0
+COVAU97777,2020-02-11,Colombia,Vaupes,Papunahua,0
+COVAU97889,2020-02-11,Colombia,Vaupes,Yavarate,0
+COVID99001,2020-02-11,Colombia,Vichada,Puerto Carreno,0
+COVID99524,2020-02-11,Colombia,Vichada,La Primavera,0
+COVID99624,2020-02-11,Colombia,Vichada,Santa Rosalia,0
+COVID99773,2020-02-11,Colombia,Vichada,Cumaribo,0

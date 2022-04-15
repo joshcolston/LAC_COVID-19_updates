@@ -1,0 +1,222 @@
+id,date,admin0,admin1,admin2,cases
+ECA0101,2020-02-13,Ecuador,Azuay,Cuenca,0
+ECA0102,2020-02-13,Ecuador,Azuay,Giron,0
+ECA0103,2020-02-13,Ecuador,Azuay,Gualaceo,0
+ECA0104,2020-02-13,Ecuador,Azuay,Nabon,0
+ECA0105,2020-02-13,Ecuador,Azuay,Paute,0
+ECA0106,2020-02-13,Ecuador,Azuay,Pucara,0
+ECA0107,2020-02-13,Ecuador,Azuay,San Fernando,0
+ECA0108,2020-02-13,Ecuador,Azuay,Santa Isabel,0
+ECA0109,2020-02-13,Ecuador,Azuay,Sigsig,0
+ECA0110,2020-02-13,Ecuador,Azuay,Ona,0
+ECA0111,2020-02-13,Ecuador,Azuay,Chordeleg,0
+ECA0112,2020-02-13,Ecuador,Azuay,El Pan,0
+ECA0113,2020-02-13,Ecuador,Azuay,Sevilla De Oro,0
+ECA0114,2020-02-13,Ecuador,Azuay,Guachapala,0
+ECA0115,2020-02-13,Ecuador,Azuay,Camilo Ponce Enriquez,0
+ECB0201,2020-02-13,Ecuador,Bolivar,Guaranda,0
+ECB0202,2020-02-13,Ecuador,Bolivar,Chillanes,0
+ECB0203,2020-02-13,Ecuador,Bolivar,Chimbo,0
+ECB0204,2020-02-13,Ecuador,Bolivar,Echeandia,0
+ECB0205,2020-02-13,Ecuador,Bolivar,San Miguel,0
+ECB0206,2020-02-13,Ecuador,Bolivar,Caluma,0
+ECB0207,2020-02-13,Ecuador,Bolivar,Las Naves,0
+ECC0401,2020-02-13,Ecuador,Carchi,Tulcan,0
+ECC0402,2020-02-13,Ecuador,Carchi,Bolivar,0
+ECC0403,2020-02-13,Ecuador,Carchi,Espejo,0
+ECC0404,2020-02-13,Ecuador,Carchi,Mira,0
+ECC0405,2020-02-13,Ecuador,Carchi,Montufar,0
+ECC0406,2020-02-13,Ecuador,Carchi,San Pedro De Huaca,0
+ECD2201,2020-02-13,Ecuador,Orellana,Orellana,0
+ECD2202,2020-02-13,Ecuador,Orellana,Aguarico,0
+ECD2203,2020-02-13,Ecuador,Orellana,La Joya De Los Sachas,0
+ECD2204,2020-02-13,Ecuador,Orellana,Loreto,0
+ECE0801,2020-02-13,Ecuador,Esmeraldas,Esmeraldas,0
+ECE0802,2020-02-13,Ecuador,Esmeraldas,Eloy Alfaro,0
+ECE0803,2020-02-13,Ecuador,Esmeraldas,Muisne,0
+ECE0804,2020-02-13,Ecuador,Esmeraldas,Quininde,0
+ECE0805,2020-02-13,Ecuador,Esmeraldas,San Lorenzo,0
+ECE0806,2020-02-13,Ecuador,Esmeraldas,Atacames,0
+ECE0807,2020-02-13,Ecuador,Esmeraldas,Rioverde,0
+ECF0301,2020-02-13,Ecuador,Canar,Azogues,0
+ECF0302,2020-02-13,Ecuador,Canar,Biblian,0
+ECF0303,2020-02-13,Ecuador,Canar,Canar,0
+ECF0304,2020-02-13,Ecuador,Canar,La Troncal,0
+ECF0305,2020-02-13,Ecuador,Canar,El Tambo,0
+ECF0306,2020-02-13,Ecuador,Canar,Deleg,0
+ECF0307,2020-02-13,Ecuador,Canar,Suscal,0
+ECG0901,2020-02-13,Ecuador,Guayas,Guayaquil,0
+ECG0902,2020-02-13,Ecuador,Guayas,Alfredo Baquerizo Moreno,0
+ECG0903,2020-02-13,Ecuador,Guayas,Balao,0
+ECG0904,2020-02-13,Ecuador,Guayas,Balzar,0
+ECG0905,2020-02-13,Ecuador,Guayas,Colimes,0
+ECG0906,2020-02-13,Ecuador,Guayas,Daule,0
+ECG0907,2020-02-13,Ecuador,Guayas,Duran,0
+ECG0908,2020-02-13,Ecuador,Guayas,Empalme,0
+ECG0909,2020-02-13,Ecuador,Guayas,El Triunfo,0
+ECG0910,2020-02-13,Ecuador,Guayas,Milagro,0
+ECG0911,2020-02-13,Ecuador,Guayas,Naranjal,0
+ECG0912,2020-02-13,Ecuador,Guayas,Naranjito,0
+ECG0913,2020-02-13,Ecuador,Guayas,Palestina,0
+ECG0914,2020-02-13,Ecuador,Guayas,Pedro Carbo,0
+ECG0916,2020-02-13,Ecuador,Guayas,Samborondon,0
+ECG0918,2020-02-13,Ecuador,Guayas,Santa Lucia,0
+ECG0919,2020-02-13,Ecuador,Guayas,Salitre,0
+ECG0920,2020-02-13,Ecuador,Guayas,San Jacinto De Yaguachi,0
+ECG0921,2020-02-13,Ecuador,Guayas,Playas,0
+ECG0922,2020-02-13,Ecuador,Guayas,Simon Bolivar,0
+ECG0923,2020-02-13,Ecuador,Guayas,Coronel Marcelino Mariduena,0
+ECG0924,2020-02-13,Ecuador,Guayas,Lomas De Sargentillo,0
+ECG0925,2020-02-13,Ecuador,Guayas,Nobol,0
+ECG0927,2020-02-13,Ecuador,Guayas,General Antonio Elizalde,0
+ECG0928,2020-02-13,Ecuador,Guayas,Isidro Ayora,0
+ECH0601,2020-02-13,Ecuador,Chimborazo,Riobamba,0
+ECH0602,2020-02-13,Ecuador,Chimborazo,Alausi,0
+ECH0603,2020-02-13,Ecuador,Chimborazo,Colta,0
+ECH0604,2020-02-13,Ecuador,Chimborazo,Chambo,0
+ECH0605,2020-02-13,Ecuador,Chimborazo,Chunchi,0
+ECH0606,2020-02-13,Ecuador,Chimborazo,Guamote,0
+ECH0607,2020-02-13,Ecuador,Chimborazo,Guano,0
+ECH0608,2020-02-13,Ecuador,Chimborazo,Pallatanga,0
+ECH0609,2020-02-13,Ecuador,Chimborazo,Penipe,0
+ECH0610,2020-02-13,Ecuador,Chimborazo,Cumanda,0
+ECI1001,2020-02-13,Ecuador,Imbabura,Ibarra,0
+ECI1002,2020-02-13,Ecuador,Imbabura,Antonio Ante,0
+ECI1003,2020-02-13,Ecuador,Imbabura,Cotacachi,0
+ECI1004,2020-02-13,Ecuador,Imbabura,Otavalo,0
+ECI1005,2020-02-13,Ecuador,Imbabura,Pimampiro,0
+ECI1006,2020-02-13,Ecuador,Imbabura,San Miguel De Urcuqui,0
+ECL1101,2020-02-13,Ecuador,Loja,Loja,0
+ECL1102,2020-02-13,Ecuador,Loja,Calvas,0
+ECL1103,2020-02-13,Ecuador,Loja,Catamayo,0
+ECL1104,2020-02-13,Ecuador,Loja,Celica,0
+ECL1105,2020-02-13,Ecuador,Loja,Chaguarpamba,0
+ECL1106,2020-02-13,Ecuador,Loja,Espindola,0
+ECL1107,2020-02-13,Ecuador,Loja,Gonzanama,0
+ECL1108,2020-02-13,Ecuador,Loja,Macara,0
+ECL1109,2020-02-13,Ecuador,Loja,Paltas,0
+ECL1110,2020-02-13,Ecuador,Loja,Puyango,0
+ECL1111,2020-02-13,Ecuador,Loja,Saraguro,0
+ECL1112,2020-02-13,Ecuador,Loja,Sozoranga,0
+ECL1113,2020-02-13,Ecuador,Loja,Zapotillo,0
+ECL1114,2020-02-13,Ecuador,Loja,Pindal,0
+ECL1115,2020-02-13,Ecuador,Loja,Quilanga,0
+ECL1116,2020-02-13,Ecuador,Loja,Olmedo,0
+ECM1301,2020-02-13,Ecuador,Manabi,Portoviejo,0
+ECM1302,2020-02-13,Ecuador,Manabi,Bolivar,0
+ECM1303,2020-02-13,Ecuador,Manabi,Chone,0
+ECM1304,2020-02-13,Ecuador,Manabi,El Carmen,0
+ECM1305,2020-02-13,Ecuador,Manabi,Flavio Alfaro,0
+ECM1306,2020-02-13,Ecuador,Manabi,Jipijapa,0
+ECM1307,2020-02-13,Ecuador,Manabi,Junin,0
+ECM1308,2020-02-13,Ecuador,Manabi,Manta,0
+ECM1309,2020-02-13,Ecuador,Manabi,Montecristi,0
+ECM1310,2020-02-13,Ecuador,Manabi,Pajan,0
+ECM1311,2020-02-13,Ecuador,Manabi,Pichincha,0
+ECM1312,2020-02-13,Ecuador,Manabi,Rocafuerte,0
+ECM1313,2020-02-13,Ecuador,Manabi,Santa Ana,0
+ECM1314,2020-02-13,Ecuador,Manabi,Sucre,0
+ECM1315,2020-02-13,Ecuador,Manabi,Tosagua,0
+ECM1316,2020-02-13,Ecuador,Manabi,Veinticuatro De Mayo,0
+ECM1317,2020-02-13,Ecuador,Manabi,Pedernales,0
+ECM1318,2020-02-13,Ecuador,Manabi,Olmedo,0
+ECM1319,2020-02-13,Ecuador,Manabi,Puerto Lopez,0
+ECM1320,2020-02-13,Ecuador,Manabi,Jama,0
+ECM1321,2020-02-13,Ecuador,Manabi,Jaramijo,0
+ECM1322,2020-02-13,Ecuador,Manabi,San Vicente,0
+ECN1501,2020-02-13,Ecuador,Napo,Tena,0
+ECN1503,2020-02-13,Ecuador,Napo,Archidona,0
+ECN1504,2020-02-13,Ecuador,Napo,El Chaco,0
+ECN1507,2020-02-13,Ecuador,Napo,Quijos,0
+ECN1509,2020-02-13,Ecuador,Napo,Carlos Julio Arosemena Tola,0
+ECO0701,2020-02-13,Ecuador,El Oro,Machala,0
+ECO0702,2020-02-13,Ecuador,El Oro,Arenillas,0
+ECO0703,2020-02-13,Ecuador,El Oro,Atahualpa,0
+ECO0704,2020-02-13,Ecuador,El Oro,Balsas,0
+ECO0705,2020-02-13,Ecuador,El Oro,Chilla,0
+ECO0706,2020-02-13,Ecuador,El Oro,El Guabo,0
+ECO0707,2020-02-13,Ecuador,El Oro,Huaquillas,0
+ECO0708,2020-02-13,Ecuador,El Oro,Marcabeli,0
+ECO0709,2020-02-13,Ecuador,El Oro,Pasaje,0
+ECO0710,2020-02-13,Ecuador,El Oro,Pinas,0
+ECO0711,2020-02-13,Ecuador,El Oro,Portovelo,0
+ECO0712,2020-02-13,Ecuador,El Oro,Santa Rosa,0
+ECO0713,2020-02-13,Ecuador,El Oro,Zaruma,0
+ECO0714,2020-02-13,Ecuador,El Oro,Las Lajas,0
+ECP1701,2020-02-13,Ecuador,Pichincha,Quito,0
+ECP1702,2020-02-13,Ecuador,Pichincha,Cayambe,0
+ECP1703,2020-02-13,Ecuador,Pichincha,Mejia,0
+ECP1704,2020-02-13,Ecuador,Pichincha,Pedro Moncayo,0
+ECP1705,2020-02-13,Ecuador,Pichincha,Ruminahui,0
+ECP1707,2020-02-13,Ecuador,Pichincha,San Miguel De Los Bancos,0
+ECP1708,2020-02-13,Ecuador,Pichincha,Pedro Vicente Maldonado,0
+ECP1709,2020-02-13,Ecuador,Pichincha,Puerto Quito,0
+ECR1201,2020-02-13,Ecuador,Los Rios,Babahoyo,0
+ECR1202,2020-02-13,Ecuador,Los Rios,Baba,0
+ECR1203,2020-02-13,Ecuador,Los Rios,Montalvo,0
+ECR1204,2020-02-13,Ecuador,Los Rios,Puebloviejo,0
+ECR1205,2020-02-13,Ecuador,Los Rios,Quevedo,0
+ECR1206,2020-02-13,Ecuador,Los Rios,Urdaneta,0
+ECR1207,2020-02-13,Ecuador,Los Rios,Ventanas,0
+ECR1208,2020-02-13,Ecuador,Los Rios,Vinces,0
+ECR1209,2020-02-13,Ecuador,Los Rios,Palenque,0
+ECR1210,2020-02-13,Ecuador,Los Rios,Buena Fe,0
+ECR1211,2020-02-13,Ecuador,Los Rios,Valencia,0
+ECR1212,2020-02-13,Ecuador,Los Rios,Mocache,0
+ECR1213,2020-02-13,Ecuador,Los Rios,Quinsaloma,0
+ECS1401,2020-02-13,Ecuador,Morona Santiago,Morona,0
+ECS1402,2020-02-13,Ecuador,Morona Santiago,Gualaquiza,0
+ECS1403,2020-02-13,Ecuador,Morona Santiago,Limon Indanza,0
+ECS1404,2020-02-13,Ecuador,Morona Santiago,Palora,0
+ECS1405,2020-02-13,Ecuador,Morona Santiago,Santiago,0
+ECS1406,2020-02-13,Ecuador,Morona Santiago,Sucua,0
+ECS1407,2020-02-13,Ecuador,Morona Santiago,Huamboya,0
+ECS1408,2020-02-13,Ecuador,Morona Santiago,San Juan Bosco,0
+ECS1409,2020-02-13,Ecuador,Morona Santiago,Taisha,0
+ECS1410,2020-02-13,Ecuador,Morona Santiago,Logrono,0
+ECS1411,2020-02-13,Ecuador,Morona Santiago,Pablo Sexto,0
+ECS1412,2020-02-13,Ecuador,Morona Santiago,Tiwintza,0
+ECSD0808,2020-02-13,Ecuador,Sto. Domingo Tsachilas,La Concordia,0
+ECSD2301,2020-02-13,Ecuador,Sto. Domingo Tsachilas,Santo Domingo,0
+ECSE2401,2020-02-13,Ecuador,Santa Elena,Santa Elena,0
+ECSE2402,2020-02-13,Ecuador,Santa Elena,La Libertad,0
+ECSE2403,2020-02-13,Ecuador,Santa Elena,Salinas,0
+ECT1801,2020-02-13,Ecuador,Tungurahua,Ambato,0
+ECT1802,2020-02-13,Ecuador,Tungurahua,Banos,0
+ECT1803,2020-02-13,Ecuador,Tungurahua,Cevallos,0
+ECT1804,2020-02-13,Ecuador,Tungurahua,Mocha,0
+ECT1805,2020-02-13,Ecuador,Tungurahua,Patate,0
+ECT1806,2020-02-13,Ecuador,Tungurahua,Quero,0
+ECT1807,2020-02-13,Ecuador,Tungurahua,Pelileo,0
+ECT1808,2020-02-13,Ecuador,Tungurahua,Pillaro,0
+ECT1809,2020-02-13,Ecuador,Tungurahua,Tisaleo,0
+ECU2101,2020-02-13,Ecuador,Sucumbios,Lago Agrio,0
+ECU2102,2020-02-13,Ecuador,Sucumbios,Gonzalo Pizarro,0
+ECU2103,2020-02-13,Ecuador,Sucumbios,Putumayo,0
+ECU2104,2020-02-13,Ecuador,Sucumbios,Shushufindi,0
+ECU2105,2020-02-13,Ecuador,Sucumbios,Sucumbios,0
+ECU2106,2020-02-13,Ecuador,Sucumbios,Cascales,0
+ECU2107,2020-02-13,Ecuador,Sucumbios,Cuyabeno,0
+ECW2001,2020-02-13,Ecuador,Galapagos,San Cristobal,0
+ECW2002,2020-02-13,Ecuador,Galapagos,Isabela,0
+ECW2003,2020-02-13,Ecuador,Galapagos,Santa Cruz,0
+ECX0501,2020-02-13,Ecuador,Cotopaxi,Latacunga,0
+ECX0502,2020-02-13,Ecuador,Cotopaxi,La Mana,0
+ECX0503,2020-02-13,Ecuador,Cotopaxi,Pangua,0
+ECX0504,2020-02-13,Ecuador,Cotopaxi,Pujili,0
+ECX0505,2020-02-13,Ecuador,Cotopaxi,Salcedo,0
+ECX0506,2020-02-13,Ecuador,Cotopaxi,Saquisili,0
+ECX0507,2020-02-13,Ecuador,Cotopaxi,Sigchos,0
+ECY1601,2020-02-13,Ecuador,Pastaza,Pastaza,0
+ECY1602,2020-02-13,Ecuador,Pastaza,Mera,0
+ECY1603,2020-02-13,Ecuador,Pastaza,Santa Clara,0
+ECY1604,2020-02-13,Ecuador,Pastaza,Arajuno,0
+ECZ1901,2020-02-13,Ecuador,Zamora Chinchipe,Zamora,0
+ECZ1902,2020-02-13,Ecuador,Zamora Chinchipe,Chinchipe,0
+ECZ1903,2020-02-13,Ecuador,Zamora Chinchipe,Nangaritza,0
+ECZ1904,2020-02-13,Ecuador,Zamora Chinchipe,Yacuambi,0
+ECZ1905,2020-02-13,Ecuador,Zamora Chinchipe,Yantzaza,0
+ECZ1906,2020-02-13,Ecuador,Zamora Chinchipe,El Pangui,0
+ECZ1907,2020-02-13,Ecuador,Zamora Chinchipe,Centinela Del Condor,0
+ECZ1908,2020-02-13,Ecuador,Zamora Chinchipe,Palanda,0
+ECZ1909,2020-02-13,Ecuador,Zamora Chinchipe,Paquisha,0

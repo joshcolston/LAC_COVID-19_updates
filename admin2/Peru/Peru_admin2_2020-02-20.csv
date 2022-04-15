@@ -1,0 +1,197 @@
+id,date,admin0,admin1,admin2,cases
+PEAMA0101,2020-02-20,Peru,Amazonas,Chachapoyas,0
+PEAMA0102,2020-02-20,Peru,Amazonas,Bagua,0
+PEAMA0103,2020-02-20,Peru,Amazonas,Bongara,0
+PEAMA0104,2020-02-20,Peru,Amazonas,Condorcanqui,0
+PEAMA0105,2020-02-20,Peru,Amazonas,Luya,0
+PEAMA0106,2020-02-20,Peru,Amazonas,Rodriguez De Mendoza,0
+PEAMA0107,2020-02-20,Peru,Amazonas,Utcubamba,0
+PEANC0201,2020-02-20,Peru,Ancash,Huaraz,0
+PEANC0202,2020-02-20,Peru,Ancash,Aija,0
+PEANC0203,2020-02-20,Peru,Ancash,Antonio Raymondi,0
+PEANC0204,2020-02-20,Peru,Ancash,Asuncion,0
+PEANC0205,2020-02-20,Peru,Ancash,Bolognesi,0
+PEANC0206,2020-02-20,Peru,Ancash,Carhuaz,0
+PEANC0207,2020-02-20,Peru,Ancash,Carlos Fermin Fitzcarrald,0
+PEANC0208,2020-02-20,Peru,Ancash,Casma,0
+PEANC0209,2020-02-20,Peru,Ancash,Corongo,0
+PEANC0210,2020-02-20,Peru,Ancash,Huari,0
+PEANC0211,2020-02-20,Peru,Ancash,Huarmey,0
+PEANC0212,2020-02-20,Peru,Ancash,Huaylas,0
+PEANC0213,2020-02-20,Peru,Ancash,Mariscal Luzuriaga,0
+PEANC0214,2020-02-20,Peru,Ancash,Ocros,0
+PEANC0215,2020-02-20,Peru,Ancash,Pallasca,0
+PEANC0216,2020-02-20,Peru,Ancash,Pomabamba,0
+PEANC0217,2020-02-20,Peru,Ancash,Recuay,0
+PEANC0218,2020-02-20,Peru,Ancash,Santa,0
+PEANC0219,2020-02-20,Peru,Ancash,Sihuas,0
+PEANC0220,2020-02-20,Peru,Ancash,Yungay,0
+PEAPU0301,2020-02-20,Peru,Apurimac,Abancay,0
+PEAPU0302,2020-02-20,Peru,Apurimac,Andahuaylas,0
+PEAPU0303,2020-02-20,Peru,Apurimac,Antabamba,0
+PEAPU0304,2020-02-20,Peru,Apurimac,Aymaraes,0
+PEAPU0305,2020-02-20,Peru,Apurimac,Cotabambas,0
+PEAPU0306,2020-02-20,Peru,Apurimac,Chincheros,0
+PEAPU0307,2020-02-20,Peru,Apurimac,Grau,0
+PEARE0401,2020-02-20,Peru,Arequipa,Arequipa,0
+PEARE0402,2020-02-20,Peru,Arequipa,Camana,0
+PEARE0403,2020-02-20,Peru,Arequipa,Caraveli,0
+PEARE0404,2020-02-20,Peru,Arequipa,Castilla,0
+PEARE0405,2020-02-20,Peru,Arequipa,Caylloma,0
+PEARE0406,2020-02-20,Peru,Arequipa,Condesuyos,0
+PEARE0407,2020-02-20,Peru,Arequipa,Islay,0
+PEARE0408,2020-02-20,Peru,Arequipa,La Union,0
+PEAYA0501,2020-02-20,Peru,Ayacucho,Huamanga,0
+PEAYA0502,2020-02-20,Peru,Ayacucho,Cangallo,0
+PEAYA0503,2020-02-20,Peru,Ayacucho,Huanca Sancos,0
+PEAYA0504,2020-02-20,Peru,Ayacucho,Huanta,0
+PEAYA0505,2020-02-20,Peru,Ayacucho,La Mar,0
+PEAYA0506,2020-02-20,Peru,Ayacucho,Lucanas,0
+PEAYA0507,2020-02-20,Peru,Ayacucho,Parinacochas,0
+PEAYA0508,2020-02-20,Peru,Ayacucho,Paucar Del Sara Sara,0
+PEAYA0509,2020-02-20,Peru,Ayacucho,Sucre,0
+PEAYA0510,2020-02-20,Peru,Ayacucho,Victor Fajardo,0
+PEAYA0511,2020-02-20,Peru,Ayacucho,Vilcas Huaman,0
+PECAJ0601,2020-02-20,Peru,Cajamarca,Cajamarca,0
+PECAJ0602,2020-02-20,Peru,Cajamarca,Cajabamba,0
+PECAJ0603,2020-02-20,Peru,Cajamarca,Celendin,0
+PECAJ0604,2020-02-20,Peru,Cajamarca,Chota,0
+PECAJ0605,2020-02-20,Peru,Cajamarca,Contumaza,0
+PECAJ0606,2020-02-20,Peru,Cajamarca,Cutervo,0
+PECAJ0607,2020-02-20,Peru,Cajamarca,Hualgayoc,0
+PECAJ0608,2020-02-20,Peru,Cajamarca,Jaen,0
+PECAJ0609,2020-02-20,Peru,Cajamarca,San Ignacio,0
+PECAJ0610,2020-02-20,Peru,Cajamarca,San Marcos,0
+PECAJ0611,2020-02-20,Peru,Cajamarca,San Miguel,0
+PECAJ0612,2020-02-20,Peru,Cajamarca,San Pablo,0
+PECAJ0613,2020-02-20,Peru,Cajamarca,Santa Cruz,0
+PECAL0701,2020-02-20,Peru,Callao,Callao,0
+PECUS0801,2020-02-20,Peru,Cusco,Cusco,0
+PECUS0802,2020-02-20,Peru,Cusco,Acomayo,0
+PECUS0803,2020-02-20,Peru,Cusco,Anta,0
+PECUS0804,2020-02-20,Peru,Cusco,Calca,0
+PECUS0805,2020-02-20,Peru,Cusco,Canas,0
+PECUS0806,2020-02-20,Peru,Cusco,Canchis,0
+PECUS0807,2020-02-20,Peru,Cusco,Chumbivilcas,0
+PECUS0808,2020-02-20,Peru,Cusco,Espinar,0
+PECUS0809,2020-02-20,Peru,Cusco,La Convencion,0
+PECUS0810,2020-02-20,Peru,Cusco,Paruro,0
+PECUS0811,2020-02-20,Peru,Cusco,Paucartambo,0
+PECUS0812,2020-02-20,Peru,Cusco,Quispicanchi,0
+PECUS0813,2020-02-20,Peru,Cusco,Urubamba,0
+PEHUC1001,2020-02-20,Peru,Huanuco,Huanuco,0
+PEHUC1002,2020-02-20,Peru,Huanuco,Ambo,0
+PEHUC1003,2020-02-20,Peru,Huanuco,Dos De Mayo,0
+PEHUC1004,2020-02-20,Peru,Huanuco,Huacaybamba,0
+PEHUC1005,2020-02-20,Peru,Huanuco,Huamalies,0
+PEHUC1006,2020-02-20,Peru,Huanuco,Leoncio Prado,0
+PEHUC1007,2020-02-20,Peru,Huanuco,Maranon,0
+PEHUC1008,2020-02-20,Peru,Huanuco,Pachitea,0
+PEHUC1009,2020-02-20,Peru,Huanuco,Puerto Inca,0
+PEHUC1010,2020-02-20,Peru,Huanuco,Lauricocha,0
+PEHUC1011,2020-02-20,Peru,Huanuco,Yarowilca,0
+PEHUV0901,2020-02-20,Peru,Huancavelica,Huancavelica,0
+PEHUV0902,2020-02-20,Peru,Huancavelica,Acobamba,0
+PEHUV0903,2020-02-20,Peru,Huancavelica,Angaraes,0
+PEHUV0904,2020-02-20,Peru,Huancavelica,Castrovirreyna,0
+PEHUV0905,2020-02-20,Peru,Huancavelica,Churcampa,0
+PEHUV0906,2020-02-20,Peru,Huancavelica,Huaytara,0
+PEHUV0907,2020-02-20,Peru,Huancavelica,Tayacaja,0
+PEICA1101,2020-02-20,Peru,Ica,Ica,0
+PEICA1102,2020-02-20,Peru,Ica,Chincha,0
+PEICA1103,2020-02-20,Peru,Ica,Nasca,0
+PEICA1104,2020-02-20,Peru,Ica,Palpa,0
+PEICA1105,2020-02-20,Peru,Ica,Pisco,0
+PEJUN1201,2020-02-20,Peru,Junin,Huancayo,0
+PEJUN1202,2020-02-20,Peru,Junin,Concepcion,0
+PEJUN1203,2020-02-20,Peru,Junin,Chanchamayo,0
+PEJUN1204,2020-02-20,Peru,Junin,Jauja,0
+PEJUN1205,2020-02-20,Peru,Junin,Junin,0
+PEJUN1206,2020-02-20,Peru,Junin,Satipo,0
+PEJUN1207,2020-02-20,Peru,Junin,Tarma,0
+PEJUN1208,2020-02-20,Peru,Junin,Yauli,0
+PEJUN1209,2020-02-20,Peru,Junin,Chupaca,0
+PELAL1301,2020-02-20,Peru,La Libertad,Trujillo,0
+PELAL1302,2020-02-20,Peru,La Libertad,Ascope,0
+PELAL1303,2020-02-20,Peru,La Libertad,Bolivar,0
+PELAL1304,2020-02-20,Peru,La Libertad,Chepen,0
+PELAL1305,2020-02-20,Peru,La Libertad,Julcan,0
+PELAL1306,2020-02-20,Peru,La Libertad,Otuzco,0
+PELAL1307,2020-02-20,Peru,La Libertad,Pacasmayo,0
+PELAL1308,2020-02-20,Peru,La Libertad,Pataz,0
+PELAL1309,2020-02-20,Peru,La Libertad,Sanchez Carrion,0
+PELAL1310,2020-02-20,Peru,La Libertad,Santiago De Chuco,0
+PELAL1311,2020-02-20,Peru,La Libertad,Gran Chimu,0
+PELAL1312,2020-02-20,Peru,La Libertad,Viru,0
+PELAM1401,2020-02-20,Peru,Lambayeque,Chiclayo,0
+PELAM1402,2020-02-20,Peru,Lambayeque,Ferrenafe,0
+PELAM1403,2020-02-20,Peru,Lambayeque,Lambayeque,0
+PELIM1501,2020-02-20,Peru,Lima,Lima,0
+PELIM1502,2020-02-20,Peru,Lima,Barranca,0
+PELIM1503,2020-02-20,Peru,Lima,Cajatambo,0
+PELIM1504,2020-02-20,Peru,Lima,Canta,0
+PELIM1505,2020-02-20,Peru,Lima,Canete,0
+PELIM1506,2020-02-20,Peru,Lima,Huaral,0
+PELIM1507,2020-02-20,Peru,Lima,Huarochiri,0
+PELIM1508,2020-02-20,Peru,Lima,Huaura,0
+PELIM1509,2020-02-20,Peru,Lima,Oyon,0
+PELIM1510,2020-02-20,Peru,Lima,Yauyos,0
+PELOR1601,2020-02-20,Peru,Loreto,Maynas,0
+PELOR1602,2020-02-20,Peru,Loreto,Alto Amazonas,0
+PELOR1603,2020-02-20,Peru,Loreto,Loreto,0
+PELOR1604,2020-02-20,Peru,Loreto,Mariscal Ramon Castilla,0
+PELOR1605,2020-02-20,Peru,Loreto,Requena,0
+PELOR1606,2020-02-20,Peru,Loreto,Ucayali,0
+PELOR1607,2020-02-20,Peru,Loreto,Datem Del Maranon,0
+PELOR1608,2020-02-20,Peru,Loreto,Putumayo,0
+PEMDD1701,2020-02-20,Peru,Madre De Dios,Tambopata,0
+PEMDD1702,2020-02-20,Peru,Madre De Dios,Manu,0
+PEMDD1703,2020-02-20,Peru,Madre De Dios,Tahuamanu,0
+PEMOQ1801,2020-02-20,Peru,Moquegua,Mariscal Nieto,0
+PEMOQ1802,2020-02-20,Peru,Moquegua,General Sanchez Cerro,0
+PEMOQ1803,2020-02-20,Peru,Moquegua,Ilo,0
+PEPAS1901,2020-02-20,Peru,Pasco,Pasco,0
+PEPAS1902,2020-02-20,Peru,Pasco,Daniel Alcides Carrion,0
+PEPAS1903,2020-02-20,Peru,Pasco,Oxapampa,0
+PEPIU2001,2020-02-20,Peru,Piura,Piura,0
+PEPIU2002,2020-02-20,Peru,Piura,Ayabaca,0
+PEPIU2003,2020-02-20,Peru,Piura,Huancabamba,0
+PEPIU2004,2020-02-20,Peru,Piura,Morropon,0
+PEPIU2005,2020-02-20,Peru,Piura,Paita,0
+PEPIU2006,2020-02-20,Peru,Piura,Sullana,0
+PEPIU2007,2020-02-20,Peru,Piura,Talara,0
+PEPIU2008,2020-02-20,Peru,Piura,Sechura,0
+PEPUN2101,2020-02-20,Peru,Puno,Puno,0
+PEPUN2102,2020-02-20,Peru,Puno,Azangaro,0
+PEPUN2103,2020-02-20,Peru,Puno,Carabaya,0
+PEPUN2104,2020-02-20,Peru,Puno,Chucuito,0
+PEPUN2105,2020-02-20,Peru,Puno,El Collao,0
+PEPUN2106,2020-02-20,Peru,Puno,Huancane,0
+PEPUN2107,2020-02-20,Peru,Puno,Lampa,0
+PEPUN2108,2020-02-20,Peru,Puno,Melgar,0
+PEPUN2109,2020-02-20,Peru,Puno,Moho,0
+PEPUN2110,2020-02-20,Peru,Puno,San Antonio De Putina,0
+PEPUN2111,2020-02-20,Peru,Puno,San Roman,0
+PEPUN2112,2020-02-20,Peru,Puno,Sandia,0
+PEPUN2113,2020-02-20,Peru,Puno,Yunguyo,0
+PESAM2201,2020-02-20,Peru,San Martin,Moyobamba,0
+PESAM2202,2020-02-20,Peru,San Martin,Bellavista,0
+PESAM2203,2020-02-20,Peru,San Martin,El Dorado,0
+PESAM2204,2020-02-20,Peru,San Martin,Huallaga,0
+PESAM2205,2020-02-20,Peru,San Martin,Lamas,0
+PESAM2206,2020-02-20,Peru,San Martin,Mariscal Caceres,0
+PESAM2207,2020-02-20,Peru,San Martin,Picota,0
+PESAM2208,2020-02-20,Peru,San Martin,Rioja,0
+PESAM2209,2020-02-20,Peru,San Martin,San Martin,0
+PESAM2210,2020-02-20,Peru,San Martin,Tocache,0
+PETAC2301,2020-02-20,Peru,Tacna,Tacna,0
+PETAC2302,2020-02-20,Peru,Tacna,Candarave,0
+PETAC2303,2020-02-20,Peru,Tacna,Jorge Basadre,0
+PETAC2304,2020-02-20,Peru,Tacna,Tarata,0
+PETUM2401,2020-02-20,Peru,Tumbes,Tumbes,0
+PETUM2402,2020-02-20,Peru,Tumbes,Contralmirante Villar,0
+PETUM2403,2020-02-20,Peru,Tumbes,Zarumilla,0
+PEUCA2501,2020-02-20,Peru,Ucayali,Coronel Portillo,0
+PEUCA2502,2020-02-20,Peru,Ucayali,Atalaya,0
+PEUCA2503,2020-02-20,Peru,Ucayali,Padre Abad,0
+PEUCA2504,2020-02-20,Peru,Ucayali,Purus,0
